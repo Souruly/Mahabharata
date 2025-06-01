@@ -1,0 +1,3510 @@
+{
+  "book_name": "Mausalaparvan",
+  "book_number": 16,
+  "chapters": [
+    {
+      "chapter_id": 0,
+      "chapter_name": "Canto 001",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001",
+          "verse_translation": {
+            "google_trans": "Vaishampayana said In the thirty-sixth year of the year, the son of the Kauravas Yudhisthira saw the opposite occasions",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "वैशंपायन उवाच",
+            "षट्त्रिंशे त्वथ संप्राप्ते वर्षे कौरवनन्दनः",
+            "ददर्श विपरीतानि निमित्तानि युधिष्ठिरः"
+          ]
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "002",
+          "verse_data": [
+            "ववुर्वाताः सनिर्घाता रूक्षाः शर्करवर्षिणः",
+            "अपसव्यानि शकुना मण्डलानि प्रचक्रिरे"
+          ],
+          "verse_translation": {
+            "google_trans": "The wind blows and the rough sugar rains They went to the left side of the birds.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "003",
+          "verse_data": [
+            "प्रत्यगूहुर्महानद्यो दिशो नीहारसंवृताः",
+            "उल्काश्चाङ्गारवर्षिण्यः प्रपेतुर्गगनाद्भुवि"
+          ],
+          "verse_translation": {
+            "google_trans": "The great rivers hid the directions covered with fog Meteors and charcoal rainfall fell from the sky on earth",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "004",
+          "verse_data": [
+            "आदित्यो रजसा राजन्समवच्छन्नमण्डलः",
+            "विरश्मिरुदये नित्यं कबन्धैः समदृश्यत"
+          ],
+          "verse_translation": {
+            "google_trans": "The sun, O king, is covered by the Rajasa. In the rising of the ray, the trunks were always equal to the trunks",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "005",
+          "verse_data": [
+            "परिवेषाश्च दृश्यन्ते दारुणाः चन्द्रसूर्ययोः",
+            "त्रिवर्णाः श्यामरूक्षान्तास्तथा भस्मारुणप्रभाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Surrounded surroundings are seen as terrible as the moon and the sun They are three-coloured, dark-brown, and radiant with ashes.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "006",
+          "verse_data": [
+            "एते चान्ये च बहव उत्पाता भयशंसिनः",
+            "दृश्यन्तेऽहरहो राजन्हृदयोद्वेगकारकाः"
+          ],
+          "verse_translation": {
+            "google_trans": "These and many others are terrified and are afraid They are seen, O king, for the heart-advancements.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "007",
+          "verse_data": [
+            "कस्यचित्त्वथ कालस्य कुरुराजो युधिष्ठिरः",
+            "शुश्राव वृष्णिचक्रस्य मौसले कदनं कृतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "After some time, the king of the Kurus was Yudhisthira He heard the Vrishni Chakra Mausale",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "008",
+          "verse_data": [
+            "विमुक्तं वासुदेवं च श्रुत्वा रामं च पाण्डवः",
+            "समानीयाब्रवीद्भ्रातॄन्किं करिष्याम इत्युत"
+          ],
+          "verse_translation": {
+            "google_trans": "Hearing of the liberated Vasudeva and Rama the Pandavas He brought him and said, “What shall we do my brothers?\"",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "009",
+          "verse_data": [
+            "परस्परं समासाद्य ब्रह्मदण्डबलात्कृतान्",
+            "वृष्णीन्विनष्टांस्ते श्रुत्वा व्यथिताः पाण्डवाभवन्"
+          ],
+          "verse_translation": {
+            "google_trans": "They reached each other and made the Brahma-danda force The Vrishnis were dismayed and they were distressed by the Pandavas.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "010",
+          "verse_data": [
+            "निधनं वासुदेवस्य समुद्रस्येव शोषणम्",
+            "वीरा न श्रद्दधुस्तस्य विनाशं शार्ङ्गधन्वनः"
+          ],
+          "verse_translation": {
+            "google_trans": "Death is the absorption of the sea of Vasudeva. The heroes did not believe his destruction, the bow of Sharnga.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "011",
+          "verse_data": [
+            "मौसलं ते परिश्रुत्य दुःखशोकसमन्विताः",
+            "विषण्णा हतसंकल्पाः पाण्डवाः समुपाविशन्"
+          ],
+          "verse_translation": {
+            "google_trans": "They heard the Mausala and were filled with sorrow and sorrow The Pandavas sat down depressed and killed resolutions",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 11
+    },
+    {
+      "chapter_id": 1,
+      "chapter_name": "Canto 002",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "जनमेजय उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Janamejaya said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "कथं विनष्टा भगवन्नन्धका वृष्णिभिः सह",
+            "पश्यतो वासुदेवस्य भोजाश्चैव महारथाः"
+          ],
+          "verse_translation": {
+            "google_trans": "How was the Lord Nandhaka with the Vrishnis The Bhojas of Vasudeva watching the great chariots",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002h",
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ]
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "002",
+          "verse_data": [
+            "षट्त्रिंशेऽथ ततो वर्षे वृष्णीनामनयो महान्",
+            "अन्योन्यं मुसलैस्ते तु निजघ्नुः कालचोदिताः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then in the thirty-sixth year, the great Vrishni was great. They killed each other with their clubs, while they were driven by time.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "003h",
+          "verse_translation": {
+            "google_trans": "Janamejaya said",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "जनमेजय उवाच"
+          ]
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "003",
+          "verse_data": [
+            "केनानुशप्तास्ते वीराः क्षयं वृष्ण्यन्धका ययुः",
+            "भोजाश्च द्विजवर्य त्वं विस्तरेण वदस्व मे"
+          ],
+          "verse_translation": {
+            "google_trans": "Who has cursed those heroes who went to the Vrishnyadhaka Bhojas and Dvijavaryas you in detail tell me",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "004h",
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ]
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "004",
+          "verse_data": [
+            "विश्वामित्रं च कण्वं च नारदं च तपोधनम्",
+            "सारणप्रमुखा वीरा ददृशुर्द्वारकागतान्"
+          ],
+          "verse_translation": {
+            "google_trans": "Vishvamitra and Kanva and Narada and the rich in austerities The heroes, headed by Sarana, saw the gates of Dwarka.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "005",
+          "verse_data": [
+            "ते वै साम्बं पुरस्कृत्य भूषयित्वा स्त्रियं यथा",
+            "अब्रुवन्नुपसंगम्य दैवदण्डनिपीडिताः"
+          ],
+          "verse_translation": {
+            "google_trans": "They wrapped Samba in front of a woman They approached and approached the rod of fate.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "006",
+          "verse_data": [
+            "इयं स्त्री पुत्रकामस्य बभ्रोरमिततेजसः",
+            "ऋषयः साधु जानीत किमियं जनयिष्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "This is a woman who desires a son and is of immense splendor The sages should know what this will give birth to",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "007",
+          "verse_data": [
+            "इत्युक्तास्ते तदा राजन्विप्रलम्भप्रधर्षिताः",
+            "प्रत्यब्रुवंस्तान्मुनयो यत्तच्छृणु नराधिप"
+          ],
+          "verse_translation": {
+            "google_trans": "At this, they then, O king, were attacked by the delay. The sages replied, “Listen, O lord of men.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "008",
+          "verse_data": [
+            "वृष्ण्यन्धकविनाशाय मुसलं घोरमायसम्",
+            "वासुदेवस्य दायादः साम्बोऽयं जनयिष्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "The club for the destruction of the Vrishnyandhakas is a horrible iron This Samba will beget Vasudeva's grandfather",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "009",
+          "verse_data": [
+            "येन यूयं सुदुर्वृत्ता नृशंसा जातमन्यवः",
+            "उच्छेत्तारः कुलं कृत्स्नमृते रामजनार्दनौ"
+          ],
+          "verse_translation": {
+            "google_trans": "By which you are very misguided and cruelly born in anger Uchchettarah kulam samrita ramajanardanau",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "010",
+          "verse_data": [
+            "समुद्रं यास्यति श्रीमांस्त्यक्त्वा देहं हलायुधः",
+            "जरा कृष्णं महात्मानं शयानं भुवि भेत्स्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "The prosperous man will go to the sea, leaving his body like a plow. Jara will break the black great soul on earth lying on the ground",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "011",
+          "verse_data": [
+            "इत्यब्रुवन्त ते राजन्प्रलब्धास्तैर्दुरात्मभिः",
+            "मुनयः क्रोधरक्ताक्षाः समीक्ष्याथ परस्परम्"
+          ],
+          "verse_translation": {
+            "google_trans": "They said these, O king, by those evil spirits. The sages, with their eyes red with anger, looked at each other.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "012",
+          "verse_data": [
+            "तथोक्त्वा मुनयस्ते तु ततः केशवमभ्ययुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Having said so, the sages then approached Keshav",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "013",
+          "verse_data": [
+            "अथाब्रवीत्तदा वृष्णीञ्श्रुत्वैवं मधुसूदनः",
+            "अन्तज्ञो मतिमांस्तस्य भवितव्यं तथेति तान्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, hearing the Vrishnis, Madhusoodana said thus. The wise man should be his mind and so on.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "014",
+          "verse_data": [
+            "एवमुक्त्वा हृषीकेशः प्रविवेश पुनर्गृहान्",
+            "कृतान्तमन्यथा नैच्छत्कर्तुं स जगतः प्रभुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Having said this, Hrishikesh entered the houses again. He is the Lord of the world to do anything else otherwise than death",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "015",
+          "verse_data": [
+            "श्वोभूतेऽथ ततः साम्बो मुसलं तदसूत वै",
+            "वृष्ण्यन्धकविनाशाय किंकरप्रतिमं महत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, in the morning, Samba gave birth to a musal. The great image of the Kinkara for the destruction of the Vrishnyandhaka",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "016",
+          "verse_data": [
+            "प्रसूतं शापजं घोरं तच्च राज्ञे न्यवेदयन्",
+            "विषण्णरूपस्तद्राजा सूक्ष्मं चूर्णमकारयत्"
+          ],
+          "verse_translation": {
+            "google_trans": "They told the king the terrible curse and the curse Depressed form, the king made a subtle powder.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "017",
+          "verse_data": [
+            "प्राक्षिपन्सागरे तच्च पुरुषा राजशासनात्",
+            "अघोषयंश्च नगरे वचनादाहुकस्य च"
+          ],
+          "verse_translation": {
+            "google_trans": "He threw it into the ocean and that the men from the king's rule and he announced in the city and of the words of the Dada.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "018",
+          "verse_data": [
+            "अद्य प्रभृति सर्वेषु वृष्ण्यन्धकगृहेष्विह",
+            "सुरासवो न कर्तव्यः सर्वैर्नगरवासिभिः"
+          ],
+          "verse_translation": {
+            "google_trans": "From today onwards in all the Vrishnis and Andhaka houses here All the inhabitants of the city should not be wine",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "019",
+          "verse_data": [
+            "यश्च नोऽविदितं कुर्यात्पेयं कश्चिन्नरः क्वचित्",
+            "जीवन्स शूलमारोहेत्स्वयं कृत्वा सबान्धवः"
+          ],
+          "verse_translation": {
+            "google_trans": "And whoever makes us unknown to us, no man who is drinking us. The alive should climb the spear and make his relatives himself",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 23,
+          "verse_number": "020",
+          "verse_data": [
+            "ततो राजभयात्सर्वे नियमं चक्रिरे तदा",
+            "नराः शासनमाज्ञाय तस्य राज्ञो महात्मनः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, fearing the king, everyone then ruled. Men, knowing the command of that great king,",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 24
+    },
+    {
+      "chapter_id": 2,
+      "chapter_name": "Canto 003",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "एवं प्रयतमानानां वृष्णीनामन्धकैः सह",
+            "कालो गृहाणि सर्वेषां परिचक्राम नित्यशः"
+          ],
+          "verse_translation": {
+            "google_trans": "With the Andhakas of the Vrishnis who were thus trying Time is the houses of everyone daily",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "करालो विकटो मुण्डः पुरुषः कृष्णपिङ्गलः",
+            "गृहाण्यवेक्ष्य वृष्णीनां नादृश्यत पुनः क्वचित्"
+          ],
+          "verse_translation": {
+            "google_trans": "The terrible man with a terrible shaving man is black and pink The Vrishnis did not see the houses anywhere else anywhere else",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "उत्पेदिरे महावाता दारुणाश्चा दिने दिने",
+            "वृष्ण्यन्धकविनाशाय बहवो रोमहर्षणाः"
+          ],
+          "verse_translation": {
+            "google_trans": "The great winds blew and terrible day by day Many hairs are for the destruction of Vrishnyandhaka",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004",
+          "verse_data": [
+            "विवृद्धमूषका रथ्या विभिन्नमणिकास्तथा",
+            "चीचीकूचीति वाश्यन्त्यः सारिका वृष्णिवेश्मसु",
+            "नोपशाम्यति शब्दश्च स दिवारात्रमेव हि"
+          ],
+          "verse_translation": {
+            "google_trans": "The streets of the grown rats and the various gems Chichikuchi, Vashyantya, in the Vrishniveshmasus. The sound does not subside, for he is the day and night.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "005",
+          "verse_data": [
+            "अनुकुर्वन्नुलूकानां सारसा विरुतं तथा",
+            "अजाः शिवानां च रुतमन्वकुर्वत भारत"
+          ],
+          "verse_translation": {
+            "google_trans": "Anukurvannulukas sarasa virutam tatha The goats and the ruts of the Shivas, India.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "006",
+          "verse_data": [
+            "पाण्डुरा रक्तपादाश्च विहगाः कालचोदिताः",
+            "वृष्ण्यन्धकानां गेहेषु कपोता व्यचरंस्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "The white and red-legged birds are induced by time Then the pigeon wandered in the houses of the Vrishnyandhakas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "007",
+          "verse_data": [
+            "व्यजायन्त खरा गोषु करभाश्वतरीषु च",
+            "शुनीष्वपि बिडालाश्च मूषका नकुलीषु च"
+          ],
+          "verse_translation": {
+            "google_trans": "They were born as donkeys in the cows and in the karabhasvatari The cats in the dogs and the mouses in the nakles",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "008",
+          "verse_data": [
+            "नापत्रपन्त पापानि कुर्वन्तो वृष्णयस्तदा",
+            "प्राद्विषन्ब्राह्मणांश्चापि पितॄन्देवांस्तथैव च"
+          ],
+          "verse_translation": {
+            "google_trans": "The Vrishnis committing sins then not wrapped up They also hated the Brahmins, the ancestors and the gods, and so on",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "009",
+          "verse_data": [
+            "गुरूंश्चाप्यवमन्यन्त न तु रामजनार्दनौ",
+            "पत्न्यः पतीन्व्युच्चरन्त पत्नीश्च पतयस्तथा"
+          ],
+          "verse_translation": {
+            "google_trans": "They also despised the teachers and not Rama and Janardana Wifes and husbands uttered their husbands and husbands",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "010",
+          "verse_data": [
+            "विभावसुः प्रज्वलितो वामं विपरिवर्तते",
+            "नीललोहितमाञ्जिष्ठा विसृजन्नर्चिषः पृथक्"
+          ],
+          "verse_translation": {
+            "google_trans": "Vibhavasu is ignited and the left turns away The blue and red wines released the flame separately",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "011",
+          "verse_data": [
+            "उदयास्तमने नित्यं पुर्यां तस्यां दिवाकरः",
+            "व्यदृश्यतासकृत्पुंभिः कबन्धैः परिवारितः"
+          ],
+          "verse_translation": {
+            "google_trans": "The sun is always in the city of rising and setting He was surrounded by men and trunks.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "012",
+          "verse_data": [
+            "महानसेषु सिद्धेऽन्ने संस्कृतेऽतीव भारत",
+            "आहार्यमाणे कृमयो व्यदृश्यन्त नराधिप"
+          ],
+          "verse_translation": {
+            "google_trans": "In the Mahanas, Siddhanne Sanskrite Very India The worms were seen when eaten, O lord of men",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "013",
+          "verse_data": [
+            "पुण्याहे वाच्यमाने च जपत्सु च महात्मसु",
+            "अभिधावन्तः श्रूयन्ते न चादृश्यत कश्चन"
+          ],
+          "verse_translation": {
+            "google_trans": "In the holy days and in the chanting of the Mahatmas They are heard and no one is seen",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "014",
+          "verse_data": [
+            "परस्परं च नक्षत्रं हन्यमानं पुनः पुनः",
+            "ग्रहैरपश्यन्सर्वे ते नात्मनस्तु कथंचन"
+          ],
+          "verse_translation": {
+            "google_trans": "And the stars are killing each other again and again Everyone who sees with the planets is not in any way",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "015",
+          "verse_data": [
+            "नदन्तं पाञ्चजन्यं च वृष्ण्यन्धकनिवेशने",
+            "समन्तात्प्रत्यवाश्यन्त रासभा दारुणस्वराः"
+          ],
+          "verse_translation": {
+            "google_trans": "Nadantam Panchajanya and in the Vrishnya and Andhaka Index The Rasas were responded from all sides.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "016",
+          "verse_data": [
+            "एवं पश्यन्हृषीकेशः संप्राप्तं कालपर्ययम्",
+            "त्रयोदश्याममावास्यां तां दृष्ट्वा प्राब्रवीदिदम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Thus seeing, Hrishikesha has reached the passage of time Seeing her in the thirteenth day of the month of Amavasya, he said this",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "017",
+          "verse_data": [
+            "चतुर्दशी पञ्चदशी कृतेयं राहुणा पुनः",
+            "तदा च भारते युद्धे प्राप्ता चाद्य क्षयाय नः"
+          ],
+          "verse_translation": {
+            "google_trans": "Chaturdashi Panchadashi Kriteyam Rahuna punah And then, in India, I have come to fight today for the destruction of us.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "018",
+          "verse_data": [
+            "विमृशन्नेव कालं तं परिचिन्त्य जनार्दनः",
+            "मेने प्राप्तं स षट्त्रिंशं वर्षं वै केशिसूदनः"
+          ],
+          "verse_translation": {
+            "google_trans": "Janardana, thinking of him as soon as he thought about it, He thought that he had been reached for thirty-six years, the destroyer of Kesi.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "019",
+          "verse_data": [
+            "पुत्रशोकाभिसंतप्ता गान्धारी हतबान्धवा",
+            "यदनुव्याजहारार्ता तदिदं समुपागतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Gandhari, who was tormented by the grief of his son, was killed by his relatives Whatever he has said, he has come to this.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "020",
+          "verse_data": [
+            "इदं च तदनुप्राप्तमब्रवीद्यद्युधिष्ठिरः",
+            "पुरा व्यूढेष्वनीकेषु दृष्ट्वोत्पातान्सुदारुणान्"
+          ],
+          "verse_translation": {
+            "google_trans": "And this was what Yudhisthira said to him who had not received it Seeing the fierce calamities in the battlefields in the past",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "021",
+          "verse_data": [
+            "इत्युक्त्वा वासुदेवस्तु चिकीर्षन्सत्यमेव तत्",
+            "आज्ञापयामास तदा तीर्थयात्रामरिंदम"
+          ],
+          "verse_translation": {
+            "google_trans": "Having said this, Vasudeva wanted to do it true. He ordered the pilgrimage to Arindam",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "022",
+          "verse_data": [
+            "अघोषयन्त पुरुषास्तत्र केशवशासनात्",
+            "तीर्थयात्रा समुद्रे वः कार्येति पुरुषर्षभाः"
+          ],
+          "verse_translation": {
+            "google_trans": "The men were not announced there from the rule of Keshav You should do a pilgrimage to the sea, men, O bull.",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 23
+    },
+    {
+      "chapter_id": 3,
+      "chapter_name": "Canto 004",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "काली स्त्री पाण्डुरैर्दन्तैः प्रविश्य हसती निशि",
+            "स्त्रियः स्वप्नेषु मुष्णन्ती द्वारकां परिधावति"
+          ],
+          "verse_translation": {
+            "google_trans": "Black fem., with white teeth, laughing at night. Women running around in their dreams, Dwarka.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "अलंकाराश्च छत्रं च ध्वजाश्च कवचानि च",
+            "ह्रियमाणान्यदृश्यन्त रक्षोभिः सुभयानकैः"
+          ],
+          "verse_translation": {
+            "google_trans": "ornaments, umbrellas, flags and shields The demons were seen being carried away by the monsters and frightening.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "तच्चाग्निदत्तं कृष्णस्य वज्रनाभमयस्मयम्",
+            "दिवमाचक्रमे चक्रं वृष्णीनां पश्यतां तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "That is the fire given to Krishna, the thunderbolt-like smile. Then he saw the wheel of the Vrishnis.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004",
+          "verse_data": [
+            "युक्तं रथं दिव्यमादित्यवर्णं; हयाहरन्पश्यतो दारुकस्य",
+            "ते सागरस्योपरिष्टादवर्त;न्मनोजवाश्चतुरो वाजिमुख्याः"
+          ],
+          "verse_translation": {
+            "google_trans": "The chariot is divine, the color of the sun;The horse-headed man was looking at the wood They are the four horses chiefs of the ocean;",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "005",
+          "verse_data": [
+            "तालः सुपर्णश्च महाध्वजौ तौ; सुपूजितौ रामजनार्दनाभ्याम्",
+            "उच्चैर्जह्रुरप्सरसो दिवानिशं; वाचश्चोचुर्गम्यतां तीर्थयात्रा"
+          ],
+          "verse_translation": {
+            "google_trans": "The rhythm and the Suparna are the two great flags;well-worshipped by Rama and Janardana Apsaras were loudly slightly shining day and night;Vachaschochur goat pilgrimage",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "006",
+          "verse_data": [
+            "ततो जिगमिषन्तस्ते वृष्ण्यन्धकमहारथाः",
+            "सान्तःपुरास्तदा तीर्थयात्रामैच्छन्नरर्षभाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then they wanted to conquer the Vrishnya and Andhaka Maharatha Santahpura then wanted a pilgrimage to the best of men.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "007",
+          "verse_data": [
+            "ततो भोज्यं च भक्ष्यं च पेयं चान्धकवृष्णयः",
+            "बहु नानाविधं चक्रुर्मद्यं मांसमनेकशः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then the Vrishnis of the Andhakas and the eaters of food and drink They made many various kinds of meat in many ways",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "008",
+          "verse_data": [
+            "ततः सीधुषु सक्ताश्च निर्ययुर्नगराद्बहिः",
+            "यानैरश्वैर्गजैश्चैव श्रीमन्तस्तिग्मतेजसः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then they went out of the city and were attached to the seas chariots, horses, elephants, and the richest of the splendors.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "009",
+          "verse_data": [
+            "ततः प्रभासे न्यवसन्यथोद्देशं यथागृहम्",
+            "प्रभूतभक्ष्यपेयास्ते सदारा यादवास्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "Then he settled in Prabhas as a house as a house They were abundantly edible and drinked, and the Yadavas then",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "010",
+          "verse_data": [
+            "निविष्टांस्तान्निशम्याथ समुद्रान्ते स योगवित्",
+            "जगामामन्त्र्य तान्वीरानुद्धवोऽर्थविशारदः"
+          ],
+          "verse_translation": {
+            "google_trans": "He heard the inhabitants of the sea at the end of the sea He went and invited them, the heroic, the expert in wealth.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "011",
+          "verse_data": [
+            "तं प्रस्थितं महात्मानमभिवाद्य कृताञ्जलिम्",
+            "जानन्विनाशं वृष्णीनां नैच्छद्वारयितुं हरिः"
+          ],
+          "verse_translation": {
+            "google_trans": "He bowed down to the great man who had departed Knowing the destruction of the Vrishnis, Hari did not want to gather.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "012",
+          "verse_data": [
+            "ततः कालपरीतास्ते वृष्ण्यन्धकमहारथाः",
+            "अपश्यन्नुद्धवं यान्तं तेजसावृत्य रोदसी"
+          ],
+          "verse_translation": {
+            "google_trans": "Then they were overwhelmed by time and the great chariots of Vrishnya and Andhaka Unseen, he covered the light that went to the sky.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "013",
+          "verse_data": [
+            "ब्राह्मणार्थेषु यत्सिद्धमन्नं तेषां महात्मनाम्",
+            "तद्वानरेभ्यः प्रददुः सुरागन्धसमन्वितम्"
+          ],
+          "verse_translation": {
+            "google_trans": "The food that is perfect in the purposes of the Brahmins is their great souls They gave it to the monkeys with wine fragrance",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "014",
+          "verse_data": [
+            "ततस्तूर्यशताकीर्णं नटनर्तकसंकुलम्",
+            "प्रावर्तत महापानं प्रभासे तिग्मतेजसाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then a crowd crowded actors and dancers The great drink of the Tigmatejas was introduced in Prabhas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "015",
+          "verse_data": [
+            "कृष्णस्य संनिधौ रामः सहितः कृतवर्मणा",
+            "अपिबद्युयुधानश्च गदो बभ्रुस्तथैव च"
+          ],
+          "verse_translation": {
+            "google_trans": "In the presence of Krishna, Rama with Kritavarman They also drank the club and the beaver and so on",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "016",
+          "verse_data": [
+            "ततः परिषदो मध्ये युयुधानो मदोत्कटः",
+            "अब्रवीत्कृतवर्माणमवहस्यावमन्य च"
+          ],
+          "verse_translation": {
+            "google_trans": "Then in the midst of the councils, Yuyudhana was intoxicated. Abravitkritavarmanamavaya chamanya cha",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "017",
+          "verse_data": [
+            "कः क्षत्रियो मन्यमानः सुप्तान्हन्यान्मृतानिव",
+            "न तन्मृष्यन्ति हार्दिक्य यादवा यत्त्वया कृतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Who is a Kshatriya who thinks he is asleep as if he were dead. They do not tolerate the hearts of the Yadavas that you have done",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "018",
+          "verse_data": [
+            "इत्युक्ते युयुधानेन पूजयामास तद्वचः",
+            "प्रद्युम्नो रथिनां श्रेष्ठो हार्दिक्यमवमन्य च"
+          ],
+          "verse_translation": {
+            "google_trans": "When he said this, he worshiped him with Yuyudhana. Pradyumna is the best of the charioteers and the heartfelt insults",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "019",
+          "verse_data": [
+            "ततः परमसंक्रुद्धः कृतवर्मा तमब्रवीत्",
+            "निर्दिशन्निव सावज्ञं तदा सव्येन पाणिना"
+          ],
+          "verse_translation": {
+            "google_trans": "Then the most angry Kritavarma said to him Sorpently as if he were disregarded with his left hand",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "020",
+          "verse_data": [
+            "भूरिश्रवाश्छिन्नबाहुर्युद्धे प्रायगतस्त्वया",
+            "वधेन सुनृशंसेन कथं वीरेण पातितः"
+          ],
+          "verse_translation": {
+            "google_trans": "Bhurisravah chinnabahur yuddhe pragatasye How was he dropped by the brave man with cruelty and slaughter",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "021",
+          "verse_data": [
+            "इति तस्य वचः श्रुत्वा केशवः परवीरहा",
+            "तिर्यक्सरोषया दृष्ट्या वीक्षां चक्रे स मन्युमान्"
+          ],
+          "verse_translation": {
+            "google_trans": "Hearing his words Keshav killed the enemy hero He looked at him in accordance with the oblique anger with his eyesight",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "022",
+          "verse_data": [
+            "मणिः स्यमन्तकश्चैव यः स सत्राजितोऽभवत्",
+            "तां कथां स्मारयामास सात्यकिर्मधुसूदनम्"
+          ],
+          "verse_translation": {
+            "google_trans": "The jewel and Syamantaka who became Satrajit Satyaki reminded that story, the destroyer of honey.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 23,
+          "verse_number": "023",
+          "verse_data": [
+            "तच्छ्रुत्वा केशवस्याङ्कमगमद्रुदती तदा",
+            "सत्यभामा प्रकुपिता कोपयन्ती जनार्दनम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Hearing that, Keshav went to the lap and then cried out. Satyabhama was angry with Janardana",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 24,
+          "verse_number": "024",
+          "verse_data": [
+            "तत उत्थाय सक्रोधः सात्यकिर्वाक्यमब्रवीत्",
+            "पञ्चानां द्रौपदेयानां धृष्टद्युम्नशिखण्डिनोः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, angrily, Satyaki got up and spoke the words. of the five Draupadis, Dhrishtadyumna and Shikhandi.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 25,
+          "verse_number": "025",
+          "verse_data": [
+            "एष गच्छामि पदवीं सत्येन च तथा शपे",
+            "सौप्तिके ये च निहताः सुप्तानेन दुरात्मना"
+          ],
+          "verse_translation": {
+            "google_trans": "This is going to the degree of truth and swear and those who were killed in the dream, by the evil spirit.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 26,
+          "verse_number": "026",
+          "verse_data": [
+            "द्रोणपुत्रसहायेन पापेन कृतवर्मणा",
+            "समाप्तमायुरस्याद्य यशश्चापि सुमध्यमे"
+          ],
+          "verse_translation": {
+            "google_trans": "By the help of the son of Drona, Kritavarma. The end of life is completed and fame is also slender",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 27,
+          "verse_number": "027",
+          "verse_data": [
+            "इतीदमुक्त्वा खड्गेन केशवस्य समीपतः",
+            "अभिद्रुत्य शिरः क्रुद्धश्चिच्छेद कृतवर्मणः"
+          ],
+          "verse_translation": {
+            "google_trans": "Having said this, the sword approached Keshav. He ran after his head angry and cut off the shield.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 28,
+          "verse_number": "028",
+          "verse_data": [
+            "तथान्यानपि निघ्नन्तं युयुधानं समन्ततः",
+            "अभ्यधावद्धृषीकेशो विनिवारयिषुस्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "and the others who were killing others were fighting all around Then the hrishikeshas rushed forward",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 29,
+          "verse_number": "029",
+          "verse_data": [
+            "एकीभूतास्ततः सर्वे कालपर्यायचोदिताः",
+            "भोजान्धका महाराज शैनेयं पर्यवारयन्"
+          ],
+          "verse_translation": {
+            "google_trans": "They were united and then all the time synonyms. Bhojandhaka maharaja shaineyam parvarayan",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 30,
+          "verse_number": "030",
+          "verse_data": [
+            "तान्दृष्ट्वा पततस्तूर्णमभिक्रुद्धाञ्जनार्दनः",
+            "न चुक्रोध महातेजा जानन्कालस्य पर्ययम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing them, Anjanardana was angry at him at once. Not angry, the mighty, knowing the passage of time.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 31,
+          "verse_number": "031",
+          "verse_data": [
+            "ते तु पानमदाविष्टाश्चोदिताश्चैव मन्युना",
+            "युयुधानमथाभ्यघ्नन्नुच्छिष्टैर्भाजनैस्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "They were drinking water and were inspired by anger Then he struck Yuyudhana with the remaining vessels then",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 32,
+          "verse_number": "032",
+          "verse_data": [
+            "हन्यमाने तु शैनेये क्रुद्धो रुक्मिणिनन्दनः",
+            "तदन्तरमुपाधावन्मोक्षयिष्यञ्शिनेः सुतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "But when he was killed, he was angry with Rukmini. Then he ran after him and released the son of Shini",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 33,
+          "verse_number": "033",
+          "verse_data": [
+            "स भोजैः सह संयुक्तः सात्यकिश्चान्धकैः सह",
+            "बहुत्वान्निहतौ तत्र उभौ कृष्णस्य पश्यतः"
+          ],
+          "verse_translation": {
+            "google_trans": "He was united with the Bhojas and Satyaki with the Andhakas Both of them were watching Krishna in many ways",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 34,
+          "verse_number": "034",
+          "verse_data": [
+            "हतं दृष्ट्वा तु शैनेयं पुत्रं च यदुनन्दनः",
+            "एरकाणां तदा मुष्टिं कोपाज्जग्राह केशवः"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing Shaineya and his son killed, Yadunandana Then Keshav took the fist of the arrows in anger",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 35,
+          "verse_number": "035",
+          "verse_data": [
+            "तदभून्मुसलं घोरं वज्रकल्पमयोमयम्",
+            "जघान तेन कृष्णस्तान्येऽस्य प्रमुखतोऽभवन्"
+          ],
+          "verse_translation": {
+            "google_trans": "That became a club, a terrible thunderbolt-like yoke. He killed him by that Krishna and others were his prominent ones",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 36,
+          "verse_number": "036",
+          "verse_data": [
+            "ततोऽन्धकाश्च भोजाश्च शैनेया वृष्णयस्तथा",
+            "जघ्नुरन्योन्यमाक्रन्दे मुसलैः कालचोदिताः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Andhaka and Bhoja and Shainya and the Vrishnis They killed each other in the cries of the clubs.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 37,
+          "verse_number": "037",
+          "verse_data": [
+            "यस्तेषामेरकां कश्चिज्जग्राह रुषितो नृप",
+            "वज्रभूतेव सा राजन्नदृश्यत तदा विभो"
+          ],
+          "verse_translation": {
+            "google_trans": "Whoever, O King, was angry with them. She was like a thunderbolt, O king, then, O Lord.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 38,
+          "verse_number": "038",
+          "verse_data": [
+            "तृणं च मुसलीभूतमपि तत्र व्यदृश्यत",
+            "ब्रह्मदण्डकृतं सर्वमिति तद्विद्धि पार्थिव"
+          ],
+          "verse_translation": {
+            "google_trans": "The grass and the muslit also appeared there Know that everything is done by the Brahmadanda, O earthly one.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 39,
+          "verse_number": "039",
+          "verse_data": [
+            "आविध्याविध्य ते राजन्प्रक्षिपन्ति स्म यत्तृणम्",
+            "तद्वज्रभूतं मुसलं व्यदृश्यत तदा दृढम्"
+          ],
+          "verse_translation": {
+            "google_trans": "They were thrown down, O king, that they were thrown down. The club appeared as a thunderbolt then firm",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 40,
+          "verse_number": "040",
+          "verse_data": [
+            "अवधीत्पितरं पुत्रः पिता पुत्रं च भारत",
+            "मत्ताः परिपतन्ति स्म पोथयन्तः परस्परम्"
+          ],
+          "verse_translation": {
+            "google_trans": "He killed his father, son, father and son, India The drunkers were falling lying each other",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 41,
+          "verse_number": "041",
+          "verse_data": [
+            "पतंगा इव चाग्नौ ते न्यपतन्कुकुरान्धकाः",
+            "नासीत्पलायने बुद्धिर्वध्यमानस्य कस्यचित्"
+          ],
+          "verse_translation": {
+            "google_trans": "They fell into the fire like moths and the dogs There was no intelligence in fleeing of anyone who was being killed",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 42,
+          "verse_number": "042",
+          "verse_data": [
+            "तं तु पश्यन्महाबाहुर्जानन्कालस्य पर्ययम्",
+            "मुसलं समवष्टभ्य तस्थौ स मधुसूदनः"
+          ],
+          "verse_translation": {
+            "google_trans": "But seeing him, the mighty-armed one knew the passage of time. He stood there with the musket of Madhusoodana",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 43,
+          "verse_number": "043",
+          "verse_data": [
+            "साम्बं च निहतं दृष्ट्वा चारुदेष्णं च माधवः",
+            "प्रद्युम्नं चानिरुद्धं च ततश्चुक्रोध भारत"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing Samba killed, Charudeshna and Madhava Pradyumna and Aniruddha and then angry, O India.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 44,
+          "verse_number": "044",
+          "verse_data": [
+            "गदं वीक्ष्य शयानं च भृशं कोपसमन्वितः",
+            "स निःशेषं तदा चक्रे शार्ङ्गचक्रगदाधरः"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing the club lying down he was very angry He then made a skeleton, a wheel and a club, holding the rest.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 45,
+          "verse_number": "045",
+          "verse_data": [
+            "तं निघ्नन्तं महातेजा बभ्रुः परपुरंजयः",
+            "दारुकश्चैव दाशार्हमूचतुर्यन्निबोध तत्"
+          ],
+          "verse_translation": {
+            "google_trans": "The mighty bear, the conqueror of the enemy, killed him as he was killing him. Daruka and Dasarhamu said that",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 46,
+          "verse_number": "046",
+          "verse_data": [
+            "भगवन्संहृतं सर्वं त्वया भूयिष्ठमच्युत",
+            "रामस्य पदमन्विच्छ तत्र गच्छाम यत्र सः"
+          ],
+          "verse_translation": {
+            "google_trans": "O Lord, you have gathered everything, O infallible one. Find the position of Rama where he is",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 47
+    },
+    {
+      "chapter_id": 4,
+      "chapter_name": "Canto 005",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "ततो ययुर्दारुकः केशवश्च; बभ्रुश्च रामस्य पदं पतन्तः",
+            "अथापश्यन्राममनन्तवीर्यं; वृक्षे स्थितं चिन्तयानं विविक्ते"
+          ],
+          "verse_translation": {
+            "google_trans": "Then they went to the woods and Keshav;Babhru and Rama's footsteps fall Then he saw Rama and infinitely semen;While thinking of the tree in a secluded place",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "ततः समासाद्य महानुभावः; कृष्णस्तदा दारुकमन्वशासत्",
+            "गत्वा कुरूञ्शीघ्रमिमं महान्तं; पार्थाय शंसस्व वधं यदूनाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then he reached the great power;Krishna then ruled Daruka Going to the Kurun quickly, this great man;Praise the killing of the Yadus to Partha",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "ततोऽर्जुनः क्षिप्रमिहोपयातु; श्रुत्वा मृतान्यादवान्ब्रह्मशापात्",
+            "इत्येवमुक्तः स ययौ रथेन; कुरूंस्तदा दारुको नष्टचेताः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then let Arjuna come here soon;Hearing the dead from the curse of Brahma Thus addressed, he went to the chariot;Kurun then Daruko lost consciousness",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004",
+          "verse_data": [
+            "ततो गते दारुके केशवोऽथ; दृष्ट्वान्तिके बभ्रुमुवाच वाक्यम्",
+            "स्त्रियो भवान्रक्षतु यातु शीघ्रं; नैता हिंस्युर्दस्यवो वित्तलोभात्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, in the woods, Keshav and then;Seeing him nearby Babhru said the words Let the women protect you and go quickly;These are not violently thieves, for the sake of wealth.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "005",
+          "verse_data": [
+            "स प्रस्थितः केशवेनानुशिष्टो; मदातुरो ज्ञातिवधार्दितश्च",
+            "तं वै यान्तं संनिधौ केशवस्य; त्वरन्तमेकं सहसैव बभ्रुम्",
+            "ब्रह्मानुशप्तमवधीन्महद्वै; कूटोन्मुक्तं मुसलं लुब्धकस्य"
+          ],
+          "verse_translation": {
+            "google_trans": "He set out and was taught by Keshav;Madaturo kinsmadhadhitacha He went to him in the presence of Keshav;One ending in a hurry suddenly Brahmanushaptamavadhinmahadvai;The club-free musal of the hunter",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "006",
+          "verse_data": [
+            "ततो दृष्ट्वा निहतं बभ्रुमाह; कृष्णो वाक्यं भ्रातरमग्रजं तु",
+            "इहैव त्वं मां प्रतीक्षस्व राम; यावत्स्त्रियो ज्ञातिवशाः करोमि"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, seeing him killed, he said to the beaver;Krishna’s words are the elder brothers but Wait me here, Rama;Until the women are under the control of my relatives",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "007",
+          "verse_data": [
+            "ततः पुरीं द्वारवतीं प्रविश्य; जनार्दनः पितरं प्राह वाक्यम्",
+            "स्त्रियो भवान्रक्षतु नः समग्रा; धनंजयस्यागमनं प्रतीक्षन्",
+            "रामो वनान्ते प्रतिपालयन्मा;मास्तेऽद्याहं तेन समागमिष्ये"
+          ],
+          "verse_translation": {
+            "google_trans": "Then he entered the city of Dwaravati;Janardana spoke to his father. May the women protect us all;Waiting for the arrival of Dhananjaya Rama, waiting for the end of the forest, do not;",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "008",
+          "verse_data": [
+            "दृष्टं मयेदं निधनं यदूनां; राज्ञां च पूर्वं कुरुपुंगवानाम्",
+            "नाहं विना यदुभिर्यादवानां; पुरीमिमां द्रष्टुमिहाद्य शक्तः"
+          ],
+          "verse_translation": {
+            "google_trans": "I have seen this death of the Yadus;and the kings of the Kurus in the past I am not without the Yadus, the Yadavas;Today I can see this city here",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "009",
+          "verse_data": [
+            "तपश्चरिष्यामि निबोध तन्मे; रामेण सार्धं वनमभ्युपेत्य",
+            "इतीदमुक्त्वा शिरसास्य पादौ; संस्पृश्य कृष्णस्त्वरितो जगाम"
+          ],
+          "verse_translation": {
+            "google_trans": "I will practice austerities, listen to that;He approached the forest with Rama The feet of the head are said to be;Touching Krishna, he hurriedly went away",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "010",
+          "verse_data": [
+            "ततो महान्निनदः प्रादुरासी;त्सस्त्रीकुमारस्य पुरस्य तस्य",
+            "अथाब्रवीत्केशवः संनिवर्त्य; शब्दं श्रुत्वा योषितां क्रोशतीनाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then the great roar of his wife; Then Keshava said, turning away;The sound of the women’s crystals.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "011",
+          "verse_data": [
+            "पुरीमिमामेष्यति सव्यसाची; स वो दुःखान्मोचयिता नराग्र्यः",
+            "ततो गत्वा केशवस्तं ददर्श; रामं वने स्थितमेकं विविक्ते"
+          ],
+          "verse_translation": {
+            "google_trans": "The city will come to the city of Savyasachi;He is the man who releases you from suffering Then he went and saw Keshav;Rama in the forest in a secluded place",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "012",
+          "verse_data": [
+            "अथापश्यद्योगयुक्तस्य तस्य; नागं मुखान्निःसरन्तं महान्तम्",
+            "श्वेतं ययौ स ततः प्रेक्ष्यमाणो; महार्णवो येन महानुभावः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then he saw that of the yogi;The serpent is moving out of his mouth. He went to white, and he looked at him;The great ocean by which the great man is",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "013",
+          "verse_data": [
+            "सहस्रशीर्षः पर्वताभोगवर्ष्मा; रक्ताननः स्वां तनुं तां विमुच्य",
+            "सम्यक्च तं सागरः प्रत्यगृह्णा;न्नागा दिव्याः सरितश्चैव पुण्याः"
+          ],
+          "verse_translation": {
+            "google_trans": "Sahasrashirsah parvatabhogavarsma;The red-faced man released her body The sea received him properly;",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "014",
+          "verse_data": [
+            "कर्कोटको वासुकिस्तक्षकश्च; पृथुश्रवा वरुणः कुञ्जरश्च",
+            "मिश्री शङ्खः कुमुदः पुण्डरीक;स्तथा नागो धृतराष्ट्रो महात्मा"
+          ],
+          "verse_translation": {
+            "google_trans": "Karkotaka and Vasuki and Takshaka;Pruthushrava Varuna and Kunjara Misri Shankha Kumuda Pundarika;And Naga Dhritarashtra Mahatma",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "015",
+          "verse_data": [
+            "ह्रादः क्राथः शितिकण्ठोऽग्रतेजा;स्तथा नागौ चक्रमन्दातिषण्डौ",
+            "नागश्रेष्ठो दुर्मुखश्चाम्बरीषः; स्वयं राजा वरुणश्चापि राजन्",
+            "प्रत्युद्गम्य स्वागतेनाभ्यनन्दं;स्तेऽपूजयंश्चार्घ्यपाद्यक्रियाभिः"
+          ],
+          "verse_translation": {
+            "google_trans": "Hrada, Kratha, Shitikantha, Agrateja;and Nagas, Chakrama and Datishanda. The best of the serpents, the evil-faced Chambarisha;King Varuna himself, O king, Receiving the welcome with welcome;",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "016",
+          "verse_data": [
+            "ततो गते भ्रातरि वासुदेवो; जानन्सर्वा गतयो दिव्यदृष्टिः",
+            "वने शून्ये विचरंश्चिन्तयानो; भूमौ ततः संविवेशाग्र्यतेजाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Vasudeva went to his brother;Knowing all the movements of divine vision wandering in the forest void;Then he entered the ground and the foremost of the lights",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "017",
+          "verse_data": [
+            "सर्वं हि तेन प्राक्तदा वित्तमासी;द्गान्धार्या यद्वाक्यमुक्तः स पूर्वम्",
+            "दुर्वाससा पायसोच्छिष्टलिप्ते; यच्चाप्युक्तं तच्च सस्मार कृष्णः"
+          ],
+          "verse_translation": {
+            "google_trans": "For everything he had said in the past; Durvasasa payasochchishtalipte;He remembered and remembered what he had said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "018",
+          "verse_data": [
+            "स चिन्तयानोऽन्धकवृष्णिनाशं; कुरुक्षयं चैव महानुभावः",
+            "मेने ततः संक्रमणस्य कालं; ततश्चकारेन्द्रियसंनिरोधम्"
+          ],
+          "verse_translation": {
+            "google_trans": "He thought of the destruction of Andhaka Vrishni;Kurukshayam chaiva mahanubhavah Mene then the time of transition;Then he made the sense-restraint",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "019",
+          "verse_data": [
+            "स संनिरुद्धेन्द्रियवाङ्मनास्तु; शिश्ये महायोगमुपेत्य कृष्णः",
+            "जराथ तं देशमुपाजगाम; लुब्धस्तदानीं मृगलिप्सुरुग्रः"
+          ],
+          "verse_translation": {
+            "google_trans": "Let him be restrained by the senses and speech;Krishna, having attained Mahayoga, in the disciple Jaratha approached the country;Lubdhadanim mrigalipsurugrah",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "020",
+          "verse_data": [
+            "स केशवं योगयुक्तं शयानं; मृगाशङ्की लुब्धकः सायकेन",
+            "जराविध्यत्पादतले त्वरावां;स्तं चाभितस्तज्जिघृक्षुर्जगाम",
+            "अथापश्यत्पुरुषं योगयुक्तं; पीताम्बरं लुब्धकोऽनेकबाहुम्"
+          ],
+          "verse_translation": {
+            "google_trans": "He lying on Keshav, a yogi;Deer-spirited hunter by the arrow The hurry to the foot of the old man was hurried; Then he saw a man with yoga;Pitambaram hunter several arms",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "021",
+          "verse_data": [
+            "मत्वात्मानमपराद्धं स तस्य; जग्राह पादौ शिरसा चार्तरूपः",
+            "आश्वासयत्तं महात्मा तदानीं; गच्छन्नूर्ध्वं रोदसी व्याप्य लक्ष्म्या"
+          ],
+          "verse_translation": {
+            "google_trans": "He thinks himself to be an offense;He grabbed his feet with his head in the form of a char. The great man reassured the great man;Going up and the heavens cover the sky with Lakshmi",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "022",
+          "verse_data": [
+            "दिवं प्राप्तं वासवोऽथाश्विनौ च; रुद्रादित्या वसवश्चाथ विश्वे",
+            "प्रत्युद्ययुर्मुनयश्चापि सिद्धा; गन्धर्वमुख्याश्च सहाप्सरोभिः"
+          ],
+          "verse_translation": {
+            "google_trans": "Vasava and Ashvins attained heaven;Rudra, Aditya, Vasava and Visve The sages also raised up and were perfect;and the chiefs of the Gandharvas and the Apsaras",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 23,
+          "verse_number": "023",
+          "verse_data": [
+            "ततो राजन्भगवानुग्रतेजा; नारायणः प्रभवश्चाव्ययश्च",
+            "योगाचार्यो रोदसी व्याप्य लक्ष्म्या; स्थानं प्राप स्वं महात्माप्रमेयम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, O King, the Lord of the fiercely effulgent;Narayana is the source and the inexhaustible Yoga teacher covers the heavens by Lakshmi;He reached his own great immeasurable",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 24,
+          "verse_number": "024",
+          "verse_data": [
+            "ततो देवैरृषिभिश्चापि कृष्णः; समागतश्चारणैश्चैव राजन्",
+            "गन्धर्वाग्र्यैरप्सरोभिर्वराभिः; सिद्धैः साध्यैश्चानतैः पूज्यमानः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Krishna is also with the gods and sages;and the Charanas gathered, O king. Gandharva chiefs and nymphs and boons;worshiped by the Siddhas and Sadhyas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 25,
+          "verse_number": "025",
+          "verse_data": [
+            "ते वै देवाः प्रत्यनन्दन्त राज;न्मुनिश्रेष्ठा वाग्भिरानर्चुरीशम्",
+            "गन्धर्वाश्चाप्युपतस्थुः स्तुवन्तः; प्रीत्या चैनं पुरुहूतोऽभ्यनन्दत्"
+          ],
+          "verse_translation": {
+            "google_trans": "They were the gods rejoiced, O king; The Gandharvas also approached and praised;With love, Puruhuto was greeted by him.",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 26
+    },
+    {
+      "chapter_id": 5,
+      "chapter_name": "Canto 006",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "दारुकोऽपि कुरून्गत्वा दृष्ट्वा पार्थान्महारथान्",
+            "आचष्ट मौसले वृष्णीनन्योन्येनोपसंहृतान्"
+          ],
+          "verse_translation": {
+            "google_trans": "Daruka also went to the Kurus and saw the great chariots of the Parthians He told the Vrishnis with each other in the Mausala.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "श्रुत्वा विनष्टान्वार्ष्णेयान्सभोजकुकुरान्धकान्",
+            "पाण्डवाः शोकसंतप्ता वित्रस्तमनसोऽभवन्"
+          ],
+          "verse_translation": {
+            "google_trans": "Hearing the destruction of the Varshneys and the Bhojas and the Kukuras and the Andhakas The Pandavas were overcome with grief and frightened minds",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "ततोऽर्जुनस्तानामन्त्र्य केशवस्य प्रियः सखा",
+            "प्रययौ मातुलं द्रष्टुं नेदमस्तीति चाब्रवीत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Arjuna invited them and was dear friend of Keshava He went to see his maternal uncle and said that he was not",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004",
+          "verse_data": [
+            "स वृष्णिनिलयं गत्वा दारुकेण सह प्रभो",
+            "ददर्श द्वारकां वीरो मृतनाथामिव स्त्रियम्"
+          ],
+          "verse_translation": {
+            "google_trans": "He went to the Vrishni's dwelling with Daruka, Lord. The hero saw a woman like a dead lord.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "005",
+          "verse_data": [
+            "याः स्म ता लोकनाथेन नाथवत्यः पुराभवन्",
+            "तास्त्वनाथास्तदा नाथं पार्थं दृष्ट्वा विचुक्रुशुः"
+          ],
+          "verse_translation": {
+            "google_trans": "The Lords who were the masters of the world were in the past They then cried out to see the orphans of Partha, the orphans.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "006",
+          "verse_data": [
+            "षोडशस्त्रीसहस्राणि वासुदेवपरिग्रहः",
+            "तासामासीन्महान्नादो दृष्ट्वैवार्जुनमागतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Sixteen thousand women Vasudeva Parigraha They had a great noise and came to Arjuna.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "007",
+          "verse_data": [
+            "तास्तु दृष्ट्वैव कौरव्यो बाष्पेण पिहितोऽर्जुनः",
+            "हीनाः कृष्णेन पुत्रैश्च नाशकत्सोऽभिवीक्षितुम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing them, the Kauravas, covered with tears, Arjuna Deserted by Krishna and sons, he could not look at him",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "008",
+          "verse_data": [
+            "तां स वृष्ण्यन्धकजलां हयमीनां रथोडुपाम्",
+            "वादित्ररथघोषौघां वेश्मतीर्थमहाग्रहाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "That Vrishnyandhaka water, the horse of the horse, the chariot of the horse. Vaditrarathaghoshaugham Veshmatirthamahagraham",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "009",
+          "verse_data": [
+            "रत्नशैवलसंघाटां वज्रप्राकारमालिनीम्",
+            "रथ्यास्रोतोजलावर्तां चत्वरस्तिमितह्रदाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Ratnashaivalasanghatam Vajraprakaramalinim The streets, the waters, the four-stretched lakes.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "010",
+          "verse_data": [
+            "रामकृष्णमहाग्राहां द्वारकासरितं तदा",
+            "कालपाशग्रहां घोरां नदीं वैतरणीमिव"
+          ],
+          "verse_translation": {
+            "google_trans": "Ramakrishna Mahagrahaam Dwarkasarita then The horrible river of the time of time is like a Vaitarani.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "011",
+          "verse_data": [
+            "तां ददर्शार्जुनो धीमान्विहीनां वृष्णिपुंगवैः",
+            "गतश्रियं निरानन्दां पद्मिनीं शिशिरे यथा"
+          ],
+          "verse_translation": {
+            "google_trans": "Arjuna saw her, devoid of the wise, with the Vrishnis. as in the winter of the lotus, the unhappy lotus.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "012",
+          "verse_data": [
+            "तां दृष्ट्वा द्वारकां पार्थस्ताश्च कृष्णस्य योषितः",
+            "सस्वनं बाष्पमुत्सृज्य निपपात महीतले"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing that Dwarka and Partha and the women of Krishna He blew his tears and fell to the ground",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "013",
+          "verse_data": [
+            "सात्राजिती ततः सत्या रुक्मिणी च विशां पते",
+            "अभिपत्य प्ररुरुदुः परिवार्य धनंजयम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Satrajiti then Satya Rukmini and Visham Pate They cried out and cried out, Dhananjaya.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "014",
+          "verse_data": [
+            "ततस्ताः काञ्चने पीठे समुत्थायोपवेश्य च",
+            "अब्रुवन्त्यो महात्मानं परिवार्योपतस्थिरे"
+          ],
+          "verse_translation": {
+            "google_trans": "Then they got up on the golden seat and sat down They were surrounded by the great men who were speaking without speaking",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "015",
+          "verse_data": [
+            "ततः संस्तूय गोविन्दं कथयित्वा च पाण्डवः",
+            "आश्वास्य ताः स्त्रियश्चापि मातुलं द्रष्टुमभ्यगात्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then he praised Govinda and told Pandavas He consoled the women and went to see his maternal uncle",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 16
+    },
+    {
+      "chapter_id": 6,
+      "chapter_name": "Canto 007",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "तं शयानं महात्मानं वीरमानकदुन्दुभिम्",
+            "पुत्रशोकाभिसंतप्तं ददर्श कुरुपुंगवः"
+          ],
+          "verse_translation": {
+            "google_trans": "The great man who was lying down, the heroic horror of the drums. The chief of the Kurus saw him tormented by the grief of his son",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "तस्याश्रुपरिपूर्णाक्षो व्यूढोरस्को महाभुजः",
+            "आर्तस्यार्ततरः पार्थः पादौ जग्राह भारत"
+          ],
+          "verse_translation": {
+            "google_trans": "His tears were full of eyes, his chest was huge arms. Partha, the most distressed, grabbed the feet of India, India",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "समालिङ्ग्यार्जुनं वृद्धः स भुजाभ्यां महाभुजः",
+            "रुदन्पुत्रान्स्मरन्सर्वान्विललाप सुविह्वलः",
+            "भ्रातॄन्पुत्रांश्च पौत्रांश्च दौहित्रांश्च सखीनपि"
+          ],
+          "verse_translation": {
+            "google_trans": "The old man embraced Arjuna with his arms, the mighty-armed one. He cried out, crying and remembering everyone, was a good one. brothers, sons, grandsons, daughters and friends",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004h",
+          "verse_translation": {
+            "google_trans": "Vasudeva said",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "वसुदेव उवाच"
+          ]
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "004",
+          "verse_data": [
+            "यैर्जिता भूमिपालाश्च दैत्याश्च शतशोऽर्जुन",
+            "तान्दृष्ट्वा नेह पश्यामि जीवाम्यर्जुन दुर्मरः"
+          ],
+          "verse_translation": {
+            "google_trans": "They conquered the land and the guards and the demons, O Arjuna. Seeing them I do not see here I live, O Arjuna, the evil one.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "005",
+          "verse_data": [
+            "यौ तावर्जुन शिष्यौ ते प्रियौ बहुमतौ सदा",
+            "तयोरपनयात्पार्थ वृष्णयो निधनं गताः"
+          ],
+          "verse_translation": {
+            "google_trans": "They are the two disciples, O Arjuna, and they are always dear to you. The Vrishnis died from them, O Arjuna.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "006",
+          "verse_data": [
+            "यौ तौ वृष्णिप्रवीराणां द्वावेवातिरथौ मतौ",
+            "प्रद्युम्नो युयुधानश्च कथयन्कत्थसे च यौ"
+          ],
+          "verse_translation": {
+            "google_trans": "They are the two chariots of the Vrishni heroes, who are considered to be the two chariots. Pradyumna and Yuyudhana tell you and you are telling you",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "007",
+          "verse_data": [
+            "नित्यं त्वं कुरुशार्दूल कृष्णश्च मम पुत्रकः",
+            "तावुभौ वृष्णिनाशस्य मुखमास्तां धनंजय"
+          ],
+          "verse_translation": {
+            "google_trans": "Always you are the tiger of the Kurus and Krishna my son Both of them were the faces of the Vrishni's destruction, Dhananjaya.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "008",
+          "verse_data": [
+            "न तु गर्हामि शैनेयं हार्दिक्यं चाहमर्जुन",
+            "अक्रूरं रौक्मिणेयं च शापो ह्येवात्र कारणम्"
+          ],
+          "verse_translation": {
+            "google_trans": "I do not rebuke Shaineya and I am the heart, O Arjuna. Akrura and Raukmineya are the reasons for the curse",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "009",
+          "verse_data": [
+            "केशिनं यस्तु कंसं च विक्रम्य जगतः प्रभुः",
+            "विदेहावकरोत्पार्थ चैद्यं च बलगर्वितम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Keshina who is the Lord of the world and Kaṁsa. Videhavakarotpartha Chaidyam and Balarvitam",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "010",
+          "verse_data": [
+            "नैषादिमेकलव्यं च चक्रे कालिङ्गमागधान्",
+            "गान्धारान्काशिराजं च मरुभूमौ च पार्थिवान्"
+          ],
+          "verse_translation": {
+            "google_trans": "Naishadimekalavyam cha chare kalingamagadhan Gandhara and Kasiraja and the Deserts and the Earth",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "011",
+          "verse_data": [
+            "प्राच्यांश्च दाक्षिणात्यांश्च पार्वतीयांस्तथा नृपान्",
+            "सोऽभ्युपेक्षितवानेतमनयं मधुसूदनः"
+          ],
+          "verse_translation": {
+            "google_trans": "The eastern and southern and the kings of the Parvatis So he ignored this, this is the Madhusoodana.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "012",
+          "verse_data": [
+            "ततः पुत्रांश्च पौत्रांश्च भ्रातॄनथ सखीनपि",
+            "शयानान्निहतान्दृष्ट्वा ततो मामब्रवीदिदम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then the sons, grandsons, brothers and friends Seeing those killed by the bed, he then said to me.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "013",
+          "verse_data": [
+            "संप्राप्तोऽद्यायमस्यान्तः कुलस्य पुरुषर्षभ",
+            "आगमिष्यति बीभत्सुरिमां द्वारवतीं पुरीम्"
+          ],
+          "verse_translation": {
+            "google_trans": "The innermost part of this family has come today, O man. He will come to the terrible city of Dwaravati",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "014",
+          "verse_data": [
+            "आख्येयं तस्य यद्वृत्तं वृष्णीनां वैशसं महत्",
+            "स तु श्रुत्वा महातेजा यदूनामनयं प्रभो",
+            "आगन्ता क्षिप्रमेवेह न मेऽत्रास्ति विचारणा"
+          ],
+          "verse_translation": {
+            "google_trans": "I shall tell him that the story of the Vrishnis is a great Vaishasa He, however, heard this, the mighty, the invincible of the Yadus, Lord. I have no consideration here for the arrival soon here",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "015",
+          "verse_data": [
+            "योऽहं तमर्जुनं विद्धि योऽर्जुनः सोऽहमेव तु",
+            "यद्ब्रूयात्तत्तथा कार्यमिति बुध्यस्व माधव"
+          ],
+          "verse_translation": {
+            "google_trans": "I am the one who knows that I am Arjuna, and I am the one who is Arjuna Understand that whatever he says, O Madhava",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "016",
+          "verse_data": [
+            "स स्त्रीषु प्राप्तकालं वः पाण्डवो बालकेषु च",
+            "प्रतिपत्स्यति बीभत्सुर्भवतश्चौर्ध्वदेहिकम्"
+          ],
+          "verse_translation": {
+            "google_trans": "That is the time for women, the Pandavas and the children. He will return to the terrible and the upper body.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "017",
+          "verse_data": [
+            "इमां च नगरीं सद्यः प्रतियाते धनंजये",
+            "प्राकाराट्टालकोपेतां समुद्रः प्लावयिष्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "And this city immediately returned to Dhananjaya The sea will flood the walls",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "018",
+          "verse_data": [
+            "अहं हि देशे कस्मिंश्चित्पुण्ये नियममास्थितः",
+            "कालं कर्ता सद्य एव रामेण सह धीमता"
+          ],
+          "verse_translation": {
+            "google_trans": "For I have established a rule in a certain country The doer of time is immediately with the wise Rama",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "019",
+          "verse_data": [
+            "एवमुक्त्वा हृषीकेशो मामचिन्त्यपराक्रमः",
+            "हित्वा मां बालकैः सार्धं दिशं कामप्यगात्प्रभुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Having said this, Hrishikesha was unthinkable and mighty. Leaving me with the children, the Lord went in all directions.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "020",
+          "verse_data": [
+            "सोऽहं तौ च महात्मानौ चिन्तयन्भ्रातरौ तव",
+            "घोरं ज्ञातिवधं चैव न भुञ्जे शोककर्शितः"
+          ],
+          "verse_translation": {
+            "google_trans": "So I and both the great men are thinking about your brothers I don't eat a terrible murder of my relatives and I am sorry",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "021",
+          "verse_data": [
+            "न च भोक्ष्ये न जीविष्ये दिष्ट्या प्राप्तोऽसि पाण्डव",
+            "यदुक्तं पार्थ कृष्णेन तत्सर्वमखिलं कुरु"
+          ],
+          "verse_translation": {
+            "google_trans": "I will not eat or live fortunately, O Pandava Do all that has been said by Krishna by Krishna",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 23,
+          "verse_number": "022",
+          "verse_data": [
+            "एतत्ते पार्थ राज्यं च स्त्रियो रत्नानि चैव ह",
+            "इष्टान्प्राणानहं हीमांस्त्यक्ष्यामि रिपुसूदन"
+          ],
+          "verse_translation": {
+            "google_trans": "This is your kingdom and the kingdom and the jewels of the women I will give up my desired life, O Heman, O destroyer of enemies",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 24
+    },
+    {
+      "chapter_id": 7,
+      "chapter_name": "Canto 008",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "एवमुक्तः स बीभत्सुर्मातुलेन परंतपः",
+            "दुर्मना दीनमनसं वसुदेवमुवाच ह"
+          ],
+          "verse_translation": {
+            "google_trans": "Thus addressed, he was terrified by his maternal uncle, the tormentor of the enemy. Durmana, the poor mind, said to Vasudeva.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "नाहं वृष्णिप्रवीरेण मधुभिश्चैव मातुल",
+            "विहीनां पृथिवीं द्रष्टुं शक्तश्चिरमिह प्रभो"
+          ],
+          "verse_translation": {
+            "google_trans": "I am not with the heroic Vrishni and the maternal maternal uncles I am able to see the earth devoid of this, Lord here for a long time.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "राजा च भीमसेनश्च सहदेवश्च पाण्डवः",
+            "नकुलो याज्ञसेनी च षडेकमनसो वयम्"
+          ],
+          "verse_translation": {
+            "google_trans": "King and Bhimasena and Sahadeva and Pandavas Nakula and Yajnaseni are six one-minded.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004",
+          "verse_data": [
+            "राज्ञः संक्रमणे चापि कालोऽयं वर्तते ध्रुवम्",
+            "तमिमं विद्धि संप्राप्तं कालं कालविदां वर"
+          ],
+          "verse_translation": {
+            "google_trans": "This time is certainly in the transition of the king Know this to have attained this time, O best of time.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "005",
+          "verse_data": [
+            "सर्वथा वृष्णिदारांस्तु बालवृद्धांस्तथैव च",
+            "नयिष्ये परिगृह्याहमिन्द्रप्रस्थमरिंदम"
+          ],
+          "verse_translation": {
+            "google_trans": "In all cases, Vrishnidars, children and elders, and so on I shall take the city of Indraprasthamarindam",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "006",
+          "verse_data": [
+            "इत्युक्त्वा दारुकमिदं वाक्यमाह धनंजयः",
+            "अमात्यान्वृष्णिवीराणां द्रष्टुमिच्छामि माचिरम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Having said this, Dhananjaya said these words. I want to see the ministers of the Vrishni heroes soon",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "007",
+          "verse_data": [
+            "इत्येवमुक्त्वा वचनं सुधर्मां यादवीं सभाम्",
+            "प्रविवेशार्जुनः शूरः शोचमानो महारथान्"
+          ],
+          "verse_translation": {
+            "google_trans": "Having thus spoken, the words of Sudharma, Yadava and assembly. The brave Arjuna entered the great chariots",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "008",
+          "verse_data": [
+            "तमासनगतं तत्र सर्वाः प्रकृतयस्तथा",
+            "ब्राह्मणा नैगमाश्चैव परिवार्योपतस्थिरे"
+          ],
+          "verse_translation": {
+            "google_trans": "All the natures there are in the seat of the darkness The Brahmins and the Naigamas fell down and stood there",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "009",
+          "verse_data": [
+            "तान्दीनमनसः सर्वान्निभृतान्गतचेतसः",
+            "उवाचेदं वचः पार्थः स्वयं दीनतरस्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "They were poor minds and all of them were controlled and lost minds He said these words, Partha himself, the poorer then.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "010",
+          "verse_data": [
+            "शक्रप्रस्थमहं नेष्ये वृष्ण्यन्धकजनं स्वयम्",
+            "इदं तु नगरं सर्वं समुद्रः प्लावयिष्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "I will take the Vrishnyandhaka people myself to Indraprastha. But this city will flood the whole city",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "011",
+          "verse_data": [
+            "सज्जीकुरुत यानानि रत्नानि विविधानि च",
+            "वज्रोऽयं भवतां राजा शक्रप्रस्थे भविष्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "Read the chariots and gems of various kinds This thunderbolt will be your king in Shakraprastha",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "012",
+          "verse_data": [
+            "सप्तमे दिवसे चैव रवौ विमल उद्गते",
+            "बहिर्वत्स्यामहे सर्वे सज्जीभवत माचिरम्"
+          ],
+          "verse_translation": {
+            "google_trans": "On the seventh day, the sun rises in the sun. Let us all be outside and become prepared.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "013",
+          "verse_data": [
+            "इत्युक्तास्तेन ते पौराः पार्थेनाक्लिष्टकर्मणा",
+            "सज्जमाशु ततश्चक्रुः स्वसिद्ध्यर्थं समुत्सुकाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Thus addressed by him, the citizens of the citizens of Partha They were eager for their accomplishment and then ready to do so quickly",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "014",
+          "verse_data": [
+            "तां रात्रिमवसत्पार्थः केशवस्य निवेशने",
+            "महता शोकमोहेन सहसाभिपरिप्लुतः"
+          ],
+          "verse_translation": {
+            "google_trans": "That night lived in the residence of Keshav. Suddenly overwhelmed with great grief",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "015",
+          "verse_data": [
+            "श्वोभूतेऽथ ततः शौरिर्वसुदेवः प्रतापवान्",
+            "युक्त्वात्मानं महातेजा जगाम गतिमुत्तमाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then, in the morning, Shauri, Vasudeva, was glorious. The effulgent man went to the best destination.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "016",
+          "verse_data": [
+            "ततः शब्दो महानासीद्वसुदेवस्य वेश्मनि",
+            "दारुणः क्रोशतीनां च रुदतीनां च योषिताम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then there was a great noise in the house of Vasudeva The terrible crops and the women of the crying women",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "017",
+          "verse_data": [
+            "प्रकीर्णमूर्धजाः सर्वा विमुक्ताभरणस्रजः",
+            "उरांसि पाणिभिर्घ्नन्त्यो व्यलपन्करुणं स्त्रियः"
+          ],
+          "verse_translation": {
+            "google_trans": "All the scattered heads were scattered with ornaments of ornaments Women were cried out with their hands whispering with their hands",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "018",
+          "verse_data": [
+            "तं देवकी च भद्रा च रोहिणी मदिरा तथा",
+            "अन्वारोढुं व्यवसिता भर्तारं योषितां वराः"
+          ],
+          "verse_translation": {
+            "google_trans": "Devakī and Bhadra and Rohini and Madira The husbands of the husbands were determined to rising Anvara",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "019",
+          "verse_data": [
+            "ततः शौरिं नृयुक्तेन बहुमाल्येन भारत",
+            "यानेन महता पार्थो बहिर्निष्क्रामयत्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "Then with a man with a man with a man with a man with a brave man Then Partha came out of a great carriage",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "020",
+          "verse_data": [
+            "तमन्वयुस्तत्र तत्र दुःखशोकसमाहताः",
+            "द्वारकावासिनः पौराः सर्व एव नरर्षभ"
+          ],
+          "verse_translation": {
+            "google_trans": "They followed him there and there, tormented with grief and sorrow. All the citizens of Dwarka are all men, O man",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "021",
+          "verse_data": [
+            "तस्याश्वमेधिकं छत्रं दीप्यमानाश्च पावकाः",
+            "पुरस्तात्तस्य यानस्य याजकाश्च ततो ययुः"
+          ],
+          "verse_translation": {
+            "google_trans": "His horse-medhika umbrella and glowing fires and the priests of the vehicle in front of them went",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "022",
+          "verse_data": [
+            "अनुजग्मुश्च तं वीरं देव्यस्ता वै स्वलंकृताः",
+            "स्त्रीसहस्रैः परिवृता वधूभिश्च सहस्रशः"
+          ],
+          "verse_translation": {
+            "google_trans": "The goddesses followed the hero and decorated him Surrounded by thousands of women and thousands of brides",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 23,
+          "verse_number": "023",
+          "verse_data": [
+            "यस्तु देशः प्रियस्तस्य जीवतोऽभून्महात्मनः",
+            "तत्रैनमुपसंकल्प्य पितृमेधं प्रचक्रिरे"
+          ],
+          "verse_translation": {
+            "google_trans": "The country which was dear to him was alive, the great soul. There he approached him and performed the Pitrimedha",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 24,
+          "verse_number": "024",
+          "verse_data": [
+            "तं चिताग्निगतं वीरं शूरपुत्रं वराङ्गनाः",
+            "ततोऽन्वारुरुहुः पत्न्यश्चतस्रः पतिलोकगाः"
+          ],
+          "verse_translation": {
+            "google_trans": "The beautiful women of the heroic son of the brave man in the fire of the chopped fire Then the four wives rode up and went to the world of their husbands",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 25,
+          "verse_number": "025",
+          "verse_data": [
+            "तं वै चतसृभिः स्त्रीभिरन्वितं पाण्डुनन्दनः",
+            "अदाहयच्चन्दनैश्च गन्धैरुच्चावचैरपि"
+          ],
+          "verse_translation": {
+            "google_trans": "That is the Pandu Nandan accompanied by four women He burned sandalwood and with fragrant flowers",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 26,
+          "verse_number": "026",
+          "verse_data": [
+            "ततः प्रादुरभूच्छब्दः समिद्धस्य विभावसोः",
+            "सामगानां च निर्घोषो नराणां रुदतामपि"
+          ],
+          "verse_translation": {
+            "google_trans": "Then the sound of the sacrificial fire appeared The noise of the Samas and the crystals of men",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 27,
+          "verse_number": "027",
+          "verse_data": [
+            "ततो वज्रप्रधानास्ते वृष्णिवीरकुमारकाः",
+            "सर्व एवोदकं चक्रुः स्त्रियश्चैव महात्मनः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then the Vrishnis and heroes were the chiefs of the thunderbolts All the women also made water and the women of the great soul",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 28,
+          "verse_number": "028",
+          "verse_data": [
+            "अलुप्तधर्मस्तं धर्मं कारयित्वा स फल्गुनः",
+            "जगाम वृष्णयो यत्र विनष्टा भरतर्षभ"
+          ],
+          "verse_translation": {
+            "google_trans": "The unlosed religion, having done that religion, was Phalguna. The Vrishnis went to where the Bharata was destroyed, O best of the Bharatas.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 29,
+          "verse_number": "029",
+          "verse_data": [
+            "स तान्दृष्ट्वा निपतितान्कदने भृशदुःखितः",
+            "बभूवातीव कौरव्यः प्राप्तकालं चकार च"
+          ],
+          "verse_translation": {
+            "google_trans": "He saw them fallen and was very sad in the Kadana. He became very much as the Kauravas and did the time when he had come",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 30,
+          "verse_number": "030",
+          "verse_data": [
+            "यथाप्रधानतश्चैव चक्रे सर्वाः क्रियास्तदा",
+            "ये हता ब्रह्मशापेन मुसलैरेरकोद्भवैः"
+          ],
+          "verse_translation": {
+            "google_trans": "All the actions then in the wheel according to the principal. Those who were killed by the curse of Brahma by the Musalairarekas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 31,
+          "verse_number": "031",
+          "verse_data": [
+            "ततः शरीरे रामस्य वासुदेवस्य चोभयोः",
+            "अन्विष्य दाहयामास पुरुषैराप्तकारिभिः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then in the body of Rama and Vasudeva and both of them He searched and burned the men who had received it",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 32,
+          "verse_number": "032",
+          "verse_data": [
+            "स तेषां विधिवत्कृत्वा प्रेतकार्याणि पाण्डवः",
+            "सप्तमे दिवसे प्रायाद्रथमारुह्य सत्वरः",
+            "अश्वयुक्तै रथैश्चापि गोखरोष्ट्रयुतैरपि"
+          ],
+          "verse_translation": {
+            "google_trans": "He performed the funeral rites for them in accordance with the rituals of the Pandavas On the seventh day, he rode on his chariot and hurried and with horses and chariots with cows, donkeys and camels",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 33,
+          "verse_number": "033",
+          "verse_data": [
+            "स्त्रियस्ता वृष्णिवीराणां रुदत्यः शोककर्शिताः",
+            "अनुजग्मुर्महात्मानं पाण्डुपुत्रं धनंजयम्"
+          ],
+          "verse_translation": {
+            "google_trans": "The women of the Vrishni heroes were crying and grieved They followed the great soul Pandu, the son of Dhananjaya.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 34,
+          "verse_number": "034",
+          "verse_data": [
+            "भृत्यास्त्वन्धकवृष्णीनां सादिनो रथिनश्च ये",
+            "वीरहीनं वृद्धबालं पौरजानपदास्तथा",
+            "ययुस्ते परिवार्याथ कलत्रं पार्थशासनात्"
+          ],
+          "verse_translation": {
+            "google_trans": "The servants of the Andhaka and the Vrishnis, the charioteers and the charioteers Heroless old children and citizens and villagers They went around and then had a wife from the command of Partha",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 35,
+          "verse_number": "035",
+          "verse_data": [
+            "कुञ्जरैश्च गजारोहा ययुः शैलनिभैस्तथा",
+            "सपादरक्षैः संयुक्ताः सोत्तरायुधिका ययुः"
+          ],
+          "verse_translation": {
+            "google_trans": "They went with elephants and elephants and rocks like rocks Combined with the Sapadarakshas, they went to Sottarayudha.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 36,
+          "verse_number": "036",
+          "verse_data": [
+            "पुत्राश्चान्धकवृष्णीनां सर्वे पार्थमनुव्रताः",
+            "ब्राह्मणाः क्षत्रिया वैश्याः शूद्राश्चैव महाधनाः"
+          ],
+          "verse_translation": {
+            "google_trans": "The sons of Andhaka and Vrishni were all followed by Partha Brahmins, Kshatriyas, Vaishyas and Sudras are great wealth",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 37,
+          "verse_number": "037",
+          "verse_data": [
+            "दश षट्च सहस्राणि वासुदेवावरोधनम्",
+            "पुरस्कृत्य ययुर्वज्रं पौत्रं कृष्णस्य धीमतः"
+          ],
+          "verse_translation": {
+            "google_trans": "Ten six thousand Vasudeva interruption They went to Vajra and went to the grandson of the wise Krishna",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 38,
+          "verse_number": "038",
+          "verse_data": [
+            "बहूनि च सहस्राणि प्रयुतान्यर्बुदानि च",
+            "भोजवृष्ण्यन्धकस्त्रीणां हतनाथानि निर्ययुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Many thousands and tens of thousands of billions Bhoja, Vrishnya and Andhaka went out of the slaughtered masters of the women",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 39,
+          "verse_number": "039",
+          "verse_data": [
+            "तत्सागरसमप्रख्यं वृष्णिचक्रं महर्द्धिमत्",
+            "उवाह रथिनां श्रेष्ठः पार्थः परपुरंजयः"
+          ],
+          "verse_translation": {
+            "google_trans": "That Vrishni Chakra, which resembled that of the ocean, was greatly rich. Partha, the best of the charioteers, the conqueror of the other city.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 40,
+          "verse_number": "040",
+          "verse_data": [
+            "निर्याते तु जने तस्मिन्सागरो मकरालयः",
+            "द्वारकां रत्नसंपूर्णां जलेनाप्लावयत्तदा"
+          ],
+          "verse_translation": {
+            "google_trans": "When the people went out, the sea was the crocodile house Then he flooded with water full of gems",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 41,
+          "verse_number": "041",
+          "verse_data": [
+            "तदद्भुतमभिप्रेक्ष्य द्वारकावासिनो जनाः",
+            "तूर्णात्तूर्णतरं जग्मुरहो दैवमिति ब्रुवन्"
+          ],
+          "verse_translation": {
+            "google_trans": "The people of Dwarka looked at that wonderful sight They hurriedly went away, saying, \"Oh, fate,\"",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 42,
+          "verse_number": "042",
+          "verse_data": [
+            "काननेषु च रम्येषु पर्वतेषु नदीषु च",
+            "निवसन्नानयामास वृष्णिदारान्धनंजयः"
+          ],
+          "verse_translation": {
+            "google_trans": "In the forests and in the beautiful mountains and rivers He brought him to the Vrishnidaraandhananjaya",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 43,
+          "verse_number": "043",
+          "verse_data": [
+            "स पञ्चनदमासाद्य धीमानतिसमृद्धिमत्",
+            "देशे गोपशुधान्याढ्ये निवासमकरोत्प्रभुः"
+          ],
+          "verse_translation": {
+            "google_trans": "He reached Panchanada and was wise and very rich The Lord did not live in the country, rich in cowgirl and grain.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 44,
+          "verse_number": "044",
+          "verse_data": [
+            "ततो लोभः समभवद्दस्यूनां निहतेश्वराः",
+            "दृष्ट्वा स्त्रियो नीयमानाः पार्थेनैकेन भारत"
+          ],
+          "verse_translation": {
+            "google_trans": "Then greed was equal to the gods who were killed Seeing the women being led by Partha, O Bharatha",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 45,
+          "verse_number": "045",
+          "verse_data": [
+            "ततस्ते पापकर्माणो लोभोपहतचेतसः",
+            "आभीरा मन्त्रयामासुः समेत्याशुभदर्शनाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then they were sinful in their minds overwhelmed with greed The Abhiras consulted with the evil-looking eyes",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 46,
+          "verse_number": "046",
+          "verse_data": [
+            "अयमेकोऽर्जुनो योद्धा वृद्धबालं हतेश्वरम्",
+            "नयत्यस्मानतिक्रम्य योधाश्चेमे हतौजसः"
+          ],
+          "verse_translation": {
+            "google_trans": "This is the one Arjuna, the old child, the killer of the dead. He takes us away from us and the warriors are humility",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 47,
+          "verse_number": "047",
+          "verse_data": [
+            "ततो यष्टिप्रहरणा दस्यवस्ते सहस्रशः",
+            "अभ्यधावन्त वृष्णीनां तं जनं लोप्त्रहारिणः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then thousands of thieves and thieves They rushed forward to the people of the Vrishnis.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 48,
+          "verse_number": "048",
+          "verse_data": [
+            "महता सिंहनादेन द्रावयन्तः पृथग्जनम्",
+            "अभिपेतुर्धनार्थं ते कालपर्यायचोदिताः"
+          ],
+          "verse_translation": {
+            "google_trans": "They melted separate people with a great lion roar They attacked for money and were inspired by time",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 49,
+          "verse_number": "049",
+          "verse_data": [
+            "ततो निवृत्तः कौन्तेयः सहसा सपदानुगः",
+            "उवाच तान्महाबाहुरर्जुनः प्रहसन्निव"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Kaunteya withdrew suddenly with his feet The mighty-armed Arjuna spoke to them as if laughing",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 50,
+          "verse_number": "050",
+          "verse_data": [
+            "निवर्तध्वमधर्मज्ञा यदि स्थ न मुमूर्षवः",
+            "नेदानीं शरनिर्भिन्नाः शोचध्वं निहता मया"
+          ],
+          "verse_translation": {
+            "google_trans": "Return to irreligion if you are not dying Do not grieve for the arrows now pierced by me",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 51,
+          "verse_number": "051",
+          "verse_data": [
+            "तथोक्तास्तेन वीरेण कदर्थीकृत्य तद्वचः",
+            "अभिपेतुर्जनं मूढा वार्यमाणाः पुनः पुनः"
+          ],
+          "verse_translation": {
+            "google_trans": "So said the hero who was despised by that word The foolish people attacked the people who were forbidden again and again",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 52,
+          "verse_number": "052",
+          "verse_data": [
+            "ततोऽर्जुनो धनुर्दिव्यं गाण्डीवमजरं महत्",
+            "आरोपयितुमारेभे यत्नादिव कथंचन"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Arjuna, the divine bow, the great Gandhi, the immortal, the great. He began to impose on his efforts somehow",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 53,
+          "verse_number": "053",
+          "verse_data": [
+            "चकार सज्यं कृच्छ्रेण संभ्रमे तुमुले सति",
+            "चिन्तयामास चास्त्राणि न च सस्मार तान्यपि"
+          ],
+          "verse_translation": {
+            "google_trans": "Chakara sajyam karuchra sambhrame tumule sati He thought about the weapons and did not remember them either",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 54,
+          "verse_number": "054",
+          "verse_data": [
+            "वैकृत्यं तन्महद्दृष्ट्वा भुजवीर्ये तथा युधि",
+            "दिव्यानां च महास्त्राणां विनाशाद्व्रीडितोऽभवत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Seeing that great deformation in the strength of his arms and fighting and ashamed of the destruction of the divine great weapons",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 55,
+          "verse_number": "055",
+          "verse_data": [
+            "वृष्णियोधाश्च ते सर्वे गजाश्वरथयायिनः",
+            "न शेकुरावर्तयितुं ह्रियमाणं च तं जनम्"
+          ],
+          "verse_translation": {
+            "google_trans": "The Vrishni warriors are all elephants, horses and charioteers. He could not turn away and the people were being taken away",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 56,
+          "verse_number": "056",
+          "verse_data": [
+            "कलत्रस्य बहुत्वात्तु संपतत्सु ततस्ततः",
+            "प्रयत्नमकरोत्पार्थो जनस्य परिरक्षणे"
+          ],
+          "verse_translation": {
+            "google_trans": "but because of the plurality of the wife, then and then. He made an effort to protect the people",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 57,
+          "verse_number": "057",
+          "verse_data": [
+            "मिषतां सर्वयोधानां ततस्ताः प्रमदोत्तमाः",
+            "समन्ततोऽवकृष्यन्त कामाच्चान्याः प्रवव्रजुः"
+          ],
+          "verse_translation": {
+            "google_trans": "They were looking at all the women and then the best of the women They were pulled from all sides from all over the world.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 58,
+          "verse_number": "058",
+          "verse_data": [
+            "ततो गाण्डीवनिर्मुक्तैः शरैः पार्थो धनंजयः",
+            "जघान दस्यून्सोद्वेगो वृष्णिभृत्यैः सह प्रभुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Partha, Arjuna, with his arrows released from Gandhian. The Lord killed the thieves and the enemies of the Vrishni servants",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 59,
+          "verse_number": "059",
+          "verse_data": [
+            "क्षणेन तस्य ते राजन्क्षयं जग्मुरजिह्मगाः",
+            "अक्षया हि पुरा भूत्वा क्षीणाः क्षतजभोजनाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Instantly he went to the king’s decay, and the deer-jihmagas. For in the past, they were depleted and wounded by the wounded foods.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 60,
+          "verse_number": "060",
+          "verse_data": [
+            "स शरक्षयमासाद्य दुःखशोकसमाहतः",
+            "धनुष्कोट्या तदा दस्यूनवधीत्पाकशासनिः"
+          ],
+          "verse_translation": {
+            "google_trans": "He reached the arrowhead and was struck by the sorrow of sorrow and sorrow Then he killed the thief with his bow in his bow.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 61,
+          "verse_number": "061",
+          "verse_data": [
+            "प्रेक्षतस्त्वेव पार्थस्य वृष्ण्यन्धकवरस्त्रियः",
+            "जग्मुरादाय ते म्लेच्छाः समन्ताज्जनमेजय"
+          ],
+          "verse_translation": {
+            "google_trans": "The women of Vrishnyandhaka were looking at Partha as they were watching They went and took the Mlecchas from all sides.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 62,
+          "verse_number": "062",
+          "verse_data": [
+            "धनंजयस्तु दैवं तन्मनसाचिन्तयत्प्रभुः",
+            "दुःखशोकसमाविष्टो निःश्वासपरमोऽभवत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Dhananjaya, however, thought of fate, and the Lord thought of it. He was overwhelmed with pain and sorrow and became breathless",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 63,
+          "verse_number": "063",
+          "verse_data": [
+            "अस्त्राणां च प्रणाशेन बाहुवीर्यस्य संक्षयात्",
+            "धनुषश्चाविधेयत्वाच्छराणां संक्षयेण च"
+          ],
+          "verse_translation": {
+            "google_trans": "and by the destruction of weapons and the destruction of the arm-strength and by the decline of the bows because of the bow",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 64,
+          "verse_number": "064",
+          "verse_data": [
+            "बभूव विमनाः पार्थो दैवमित्यनुचिन्तयन्",
+            "न्यवर्तत ततो राजन्नेदमस्तीति चाब्रवीत्"
+          ],
+          "verse_translation": {
+            "google_trans": "He became destiny, thinking that fate was fate. Then he turned away, O king, and he said this.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 65,
+          "verse_number": "065",
+          "verse_data": [
+            "ततः स शेषमादाय कलत्रस्य महामतिः",
+            "हृतभूयिष्ठरत्नस्य कुरुक्षेत्रमवातरत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then he took the rest of his wife, the great intellectual. He descended from Kurukshetra of the Hrishta Ratna",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 66,
+          "verse_number": "066",
+          "verse_data": [
+            "एवं कलत्रमानीय वृष्णीनां हृतशेषितम्",
+            "न्यवेशयत कौरव्यस्तत्र तत्र धनंजयः"
+          ],
+          "verse_translation": {
+            "google_trans": "Thus, the rest of the Vrishnis were taken away. The Kauravas placed him here and there Dhananjaya",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 67,
+          "verse_number": "067",
+          "verse_data": [
+            "हार्दिक्यतनयं पार्थो नगरं मार्तिकावतम्",
+            "भोजराजकलत्रं च हृतशेषं नरोत्तमः"
+          ],
+          "verse_translation": {
+            "google_trans": "The heart of the hearts, Partha, the city of Martikavata. The best of men was taken away by the king of Bhoja, the king of the Bhojas.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 68,
+          "verse_number": "068",
+          "verse_data": [
+            "ततो वृद्धांश्च बालांश्च स्त्रियश्चादाय पाण्डवः",
+            "वीरैर्विहीनान्सर्वांस्ताञ्शक्रप्रस्थे न्यवेशयत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Then Pandavas took the elderly and the children and the women He placed all those devoid of heroes in the Prastha of Indra",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 69,
+          "verse_number": "069",
+          "verse_data": [
+            "यौयुधानिं सरस्वत्यां पुत्रं सात्यकिनः प्रियम्",
+            "न्यवेशयत धर्मात्मा वृद्धबालपुरस्कृतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Yuyudhani, the son of Satyaki, was the son of Saraswati in Saraswati. The righteous man was awarded the old child rewarded",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 70,
+          "verse_number": "070",
+          "verse_data": [
+            "इन्द्रप्रस्थे ददौ राज्यं वज्राय परवीरहा",
+            "वज्रेणाक्रूरदारास्तु वार्यमाणाः प्रवव्रजुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Indraprastha gave the kingdom to Vajra and killed the enemy of the enemy The cruel wives of the thunderbolt were forbidden by the thunderbolt",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 71,
+          "verse_number": "071",
+          "verse_data": [
+            "रुक्मिणी त्वथ गान्धारी शैब्या हैमवतीत्यपि",
+            "देवी जाम्बवती चैव विविशुर्जातवेदसम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Rukmini Tvatha Gandhari Shaibya Haivattipi Goddess Jambavati also entered the Jatavedasam",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 72,
+          "verse_number": "072",
+          "verse_data": [
+            "सत्यभामा तथैवान्या देव्यः कृष्णस्य संमताः",
+            "वनं प्रविविशू राजंस्तापस्ये कृतनिश्चयाः"
+          ],
+          "verse_translation": {
+            "google_trans": "Satyabhama and other goddesses agreed with Krishna He entered the forest, O king, and determined in the torment.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 73,
+          "verse_number": "073",
+          "verse_data": [
+            "द्वारकावासिनो ये तु पुरुषाः पार्थमन्वयुः",
+            "यथार्हं संविभज्यैनान्वज्रे पर्यददज्जयः"
+          ],
+          "verse_translation": {
+            "google_trans": "But men who lived in Dwarka followed Partha As he deserved, he gave him the jy.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 74,
+          "verse_number": "074",
+          "verse_data": [
+            "स तत्कृत्वा प्राप्तकालं बाष्पेणापिहितोऽर्जुनः",
+            "कृष्णद्वैपायनं राजन्ददर्शासीनमाश्रमे"
+          ],
+          "verse_translation": {
+            "google_trans": "He did that and the time he had received, Arjuna, drawn away by tears. Krishna Dvaipayana, O king, sits in the ashram.",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 75
+    },
+    {
+      "chapter_id": 8,
+      "chapter_name": "Canto 009",
+      "verses": [
+        {
+          "verse_id": 0,
+          "verse_number": "001h",
+          "verse_data": [
+            "वैशंपायन उवाच"
+          ],
+          "verse_translation": {
+            "google_trans": "Vaishampayana said",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 1,
+          "verse_number": "001",
+          "verse_data": [
+            "प्रविशन्नर्जुनो राजन्नाश्रमं सत्यवादिनः",
+            "ददर्शासीनमेकान्ते मुनिं सत्यवतीसुतम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Arjuna entered the hermitage and truthful He saw the sage Satyavati in solitude alone",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 2,
+          "verse_number": "002",
+          "verse_data": [
+            "स तमासाद्य धर्मज्ञमुपतस्थे महाव्रतम्",
+            "अर्जुनोऽस्मीति नामास्मै निवेद्याभ्यवदत्ततः"
+          ],
+          "verse_translation": {
+            "google_trans": "He reached Tamas and approached the great vow I offered the names to him, Arjuna, and he offered him his name.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 3,
+          "verse_number": "003",
+          "verse_data": [
+            "स्वागतं तेऽस्त्विति प्राह मुनिः सत्यवतीसुतः",
+            "आस्यतामिति चोवाच प्रसन्नात्मा महामुनिः"
+          ],
+          "verse_translation": {
+            "google_trans": "Welcome to you, the sage Satyavati, the son of Satyavati. The great sage, pleased with himself, said, \"Let him be seated.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 4,
+          "verse_number": "004",
+          "verse_data": [
+            "तमप्रतीतमनसं निःश्वसन्तं पुनः पुनः",
+            "निर्विण्णमनसं दृष्ट्वा पार्थं व्यासोऽब्रवीदिदम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Breathing again and again, breathing in a dark mind Seeing Partha to see him dejected, Vyasa said this",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 5,
+          "verse_number": "005",
+          "verse_data": [
+            "अवीरजोऽभिघातस्ते ब्राह्मणो वा हतस्त्वया",
+            "युद्धे पराजितो वासि गतश्रीरिव लक्ष्यसे"
+          ],
+          "verse_translation": {
+            "google_trans": "Avirajo's accident you or a Brahmin killed you You are defeated in battle, you are not looking at the past glory.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 6,
+          "verse_number": "006",
+          "verse_data": [
+            "न त्वा प्रत्यभिजानामि किमिदं भरतर्षभ",
+            "श्रोतव्यं चेन्मया पार्थ क्षिप्रमाख्यातुमर्हसि"
+          ],
+          "verse_translation": {
+            "google_trans": "I don’t recognize you, O Bharatarshabha, what is this. If I must hear, O Partha, you should tell me quickly.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 7,
+          "verse_number": "007h",
+          "verse_translation": {
+            "google_trans": "Arjuna said",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "अर्जुन उवाच"
+          ]
+        },
+        {
+          "verse_id": 8,
+          "verse_number": "007",
+          "verse_data": [
+            "यः स मेघवपुः श्रीमान्बृहत्पङ्कजलोचनः",
+            "स कृष्णः सह रामेण त्यक्त्वा देहं दिवं गतः"
+          ],
+          "verse_translation": {
+            "google_trans": "He who is a cloud-shaped beautiful lotus-eyed That Krishna left the body with Rama and went to heaven",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 9,
+          "verse_number": "008",
+          "verse_data": [
+            "मौसले वृष्णिवीराणां विनाशो ब्रह्मशापजः",
+            "बभूव वीरान्तकरः प्रभासे रोमहर्षणः"
+          ],
+          "verse_translation": {
+            "google_trans": "The destruction of the heroes of the Vrishnis in the Mausala is the Brahmashapaja He became a heroic destroyer of hair in Prabhas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 10,
+          "verse_number": "009",
+          "verse_data": [
+            "ये ते शूरा महात्मानः सिंहदर्पा महाबलाः",
+            "भोजवृष्ण्यन्धका ब्रह्मन्नन्योन्यं तैर्हतं युधि"
+          ],
+          "verse_translation": {
+            "google_trans": "Those who are brave and great and mighty in the pride of the lions Bhoja, Vrishnyandhaka, O Brahman, killed each other in battle.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 11,
+          "verse_number": "010",
+          "verse_data": [
+            "गदापरिघशक्तीनां सहाः परिघबाहवः",
+            "त एरकाभिर्निहताः पश्य कालस्य पर्ययम्"
+          ],
+          "verse_translation": {
+            "google_trans": "The club-shaped forces with their arms with their arms They were killed by the Ercas and see the passing of time",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 12,
+          "verse_number": "011",
+          "verse_data": [
+            "हतं पञ्चशतं तेषां सहस्रं बाहुशालिनाम्",
+            "निधनं समनुप्राप्तं समासाद्येतरेतरम्"
+          ],
+          "verse_translation": {
+            "google_trans": "They had been killed five hundred of them thousand of their arms Death is the one who has attained the other.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 13,
+          "verse_number": "012",
+          "verse_data": [
+            "पुनः पुनर्न मृष्यामि विनाशममितौजसाम्",
+            "चिन्तयानो यदूनां च कृष्णस्य च यशस्विनः"
+          ],
+          "verse_translation": {
+            "google_trans": "I will not tolerate the destruction of the immeasurable splendor again and again Thinking of the Yadus and Krishna of the illustrious",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 14,
+          "verse_number": "013",
+          "verse_data": [
+            "शोषणं सागरस्येव पर्वतस्येव चालनम्",
+            "नभसः पतनं चैव शैत्यमग्नेस्तथैव च"
+          ],
+          "verse_translation": {
+            "google_trans": "Showing like the sea like a mountain The fall of the sky and the coldness of the fire",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 15,
+          "verse_number": "014",
+          "verse_data": [
+            "अश्रद्धेयमहं मन्ये विनाशं शार्ङ्गधन्वनः",
+            "न चेह स्थातुमिच्छामि लोके कृष्णविनाकृतः"
+          ],
+          "verse_translation": {
+            "google_trans": "I think it is unbelievable to destroy the Sharngadhanvan I don't want to stay here in the world without Krishna",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 16,
+          "verse_number": "015",
+          "verse_data": [
+            "इतः कष्टतरं चान्यच्छृणु तद्वै तपोधन",
+            "मनो मे दीर्यते येन चिन्तयानस्य वै मुहुः"
+          ],
+          "verse_translation": {
+            "google_trans": "Listen to something more difficult than this, O Tapodhan My mind is torn away by the one who thinks about it again",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 17,
+          "verse_number": "016",
+          "verse_data": [
+            "पश्यतो वृष्णिदाराश्च मम ब्रह्मन्सहस्रशः",
+            "आभीरैरनुसृत्याजौ हृताः पञ्चनदालयैः"
+          ],
+          "verse_translation": {
+            "google_trans": "The Vrishnidars and my thousands of my Brahmans watching me They followed the Abhiras and were taken away by the Panchanadalayas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 18,
+          "verse_number": "017",
+          "verse_data": [
+            "धनुरादाय तत्राहं नाशकं तस्य पूरणे",
+            "यथा पुरा च मे वीर्यं भुजयोर्न तथाभवत्"
+          ],
+          "verse_translation": {
+            "google_trans": "Taking the bow there I destroy it in his filling And as in the past, my semen did not happen to my arms.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 19,
+          "verse_number": "018",
+          "verse_data": [
+            "अस्त्राणि मे प्रनष्टानि विविधानि महामुने",
+            "शराश्च क्षयमापन्नाः क्षणेनैव समन्ततः"
+          ],
+          "verse_translation": {
+            "google_trans": "I have lost my weapons, O great sage. The arrows were destroyed instantly all around",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 20,
+          "verse_number": "019",
+          "verse_data": [
+            "पुरुषश्चाप्रमेयात्मा शङ्खचक्रगदाधरः",
+            "चतुर्भुजः पीतवासा श्यामः पद्मायतेक्षणः"
+          ],
+          "verse_translation": {
+            "google_trans": "The man is immeasurable, holding a conch, wheel and club. Four-armed, yellow-clad, black and lotus-eyed.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 21,
+          "verse_number": "020",
+          "verse_data": [
+            "यः स याति पुरस्तान्मे रथस्य सुमहाद्युतिः",
+            "प्रदहन्रिपुसैन्यानि न पश्याम्यहमद्य तम्"
+          ],
+          "verse_translation": {
+            "google_trans": "He who goes forward in front of my chariot is very bright I don't see the enemy armies burning today.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 22,
+          "verse_number": "021",
+          "verse_data": [
+            "येन पूर्वं प्रदग्धानि शत्रुसैन्यानि तेजसा",
+            "शरैर्गाण्डीवनिर्मुक्तैरहं पश्चाद्व्यनाशयम्"
+          ],
+          "verse_translation": {
+            "google_trans": "By which the enemy armies had previously burnt by the effulgence I have destroyed the enemy afterwards, freed from the arrows.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 23,
+          "verse_number": "022",
+          "verse_data": [
+            "तमपश्यन्विषीदामि घूर्णामीव च सत्तम",
+            "परिनिर्विण्णचेताश्च शान्तिं नोपलभेऽपि च"
+          ],
+          "verse_translation": {
+            "google_trans": "I’ll see him, I’m going to stir up, and I’m sorry. and the mind desperate and not even in the attainment of peace",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 24,
+          "verse_number": "023",
+          "verse_data": [
+            "विना जनार्दनं वीरं नाहं जीवितुमुत्सहे",
+            "श्रुत्वैव हि गतं विष्णुं ममापि मुमुहुर्दिशः"
+          ],
+          "verse_translation": {
+            "google_trans": "Without Janardana, I cannot live a hero. For I have gone to Vishnu, who has gone to the directions of my directions too.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 25,
+          "verse_number": "024",
+          "verse_data": [
+            "प्रनष्टज्ञातिवीर्यस्य शून्यस्य परिधावतः",
+            "उपदेष्टुं मम श्रेयो भवानर्हति सत्तम"
+          ],
+          "verse_translation": {
+            "google_trans": "The void of the lost kinsmen and the void You deserve to teach me good, Sattam",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 26,
+          "verse_number": "025h",
+          "verse_translation": {
+            "google_trans": "Vyasa said",
+            "kmg_trans": ""
+          },
+          "verse_data": [
+            "व्यास उवाच"
+          ]
+        },
+        {
+          "verse_id": 27,
+          "verse_number": "025",
+          "verse_data": [
+            "ब्रह्मशापविनिर्दग्धा वृष्ण्यन्धकमहारथाः",
+            "विनष्टाः कुरुशार्दूल न ताञ्शोचितुमर्हसि"
+          ],
+          "verse_translation": {
+            "google_trans": "The great chariots of Vrishnya and Andhaka were burnt by the curse of Brahma You should not grieve for them, O tiger of the Kurus.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 28,
+          "verse_number": "026",
+          "verse_data": [
+            "भवितव्यं तथा तद्धि दिष्टमेतन्महात्मनाम्",
+            "उपेक्षितं च कृष्णेन शक्तेनापि व्यपोहितुम्"
+          ],
+          "verse_translation": {
+            "google_trans": "It should be so and that is the fate of this great souls and neglected by Krishna and the power",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 29,
+          "verse_number": "027",
+          "verse_data": [
+            "त्रैलोक्यमपि कृष्णो हि कृत्स्नं स्थावरजङ्गमम्",
+            "प्रसहेदन्यथा कर्तुं किमु शापं मनीषिणाम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Even the three worlds are black, moving and immovable. To dare to do otherwise, what is the curse of the wise.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 30,
+          "verse_number": "028",
+          "verse_data": [
+            "रथस्य पुरतो याति यः स चक्रगदाधरः",
+            "तव स्नेहात्पुराणर्षिर्वासुदेवश्चतुर्भुजः"
+          ],
+          "verse_translation": {
+            "google_trans": "He who goes in front of the chariot is a wheel and a club-bearer By your affection for the Puranas, the sage Vasudeva, the four-armed one.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 31,
+          "verse_number": "029",
+          "verse_data": [
+            "कृत्वा भारावतरणं पृथिव्याः पृथुलोचनः",
+            "मोक्षयित्वा जगत्सर्वं गतः स्वस्थानमुत्तमम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Having made the weight of the earth, the earth was broad-eyed Having delivered the whole world he went to his own place",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 32,
+          "verse_number": "030",
+          "verse_data": [
+            "त्वया त्विह महत्कर्म देवानां पुरुषर्षभ",
+            "कृतं भीमसहायेन यमाभ्यां च महाभुज"
+          ],
+          "verse_translation": {
+            "google_trans": "You are a great deed of the gods, O man of the gods. done with the help of Bhima and Yama, the mighty-armed one",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 33,
+          "verse_number": "031",
+          "verse_data": [
+            "कृतकृत्यांश्च वो मन्ये संसिद्धान्कुरुपुंगव",
+            "गमनं प्राप्तकालं च तद्धि श्रेयो मतं मम"
+          ],
+          "verse_translation": {
+            "google_trans": "I think you have done your duties and perfectly, O Kurupungava. I don't think it’s better to go and that time.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 34,
+          "verse_number": "032",
+          "verse_data": [
+            "बलं बुद्धिश्च तेजश्च प्रतिपत्तिश्च भारत",
+            "भवन्ति भवकालेषु विपद्यन्ते विपर्यये"
+          ],
+          "verse_translation": {
+            "google_trans": "strength, intelligence, splendour and assumption, India They are in trouble at the time of being in the opposite direction",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 35,
+          "verse_number": "033",
+          "verse_data": [
+            "कालमूलमिदं सर्वं जगद्बीजं धनंजय",
+            "काल एव समादत्ते पुनरेव यदृच्छया"
+          ],
+          "verse_translation": {
+            "google_trans": "This whole world is the seed of time, Dhananjaya It is the time itself takes the same thing by chance",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 36,
+          "verse_number": "034",
+          "verse_data": [
+            "स एव बलवान्भूत्वा पुनर्भवति दुर्बलः",
+            "स एवेशश्च भूत्वेह परैराज्ञाप्यते पुनः"
+          ],
+          "verse_translation": {
+            "google_trans": "He is the one who is strong and is weak again He is also the same as the others commanded by others.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 37,
+          "verse_number": "035",
+          "verse_data": [
+            "कृतकृत्यानि चास्त्राणि गतान्यद्य यथागतम्",
+            "पुनरेष्यन्ति ते हस्तं यदा कालो भविष्यति"
+          ],
+          "verse_translation": {
+            "google_trans": "The weapons done and the weapons have gone today as it came They will come back to your hand when the time will happen",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 38,
+          "verse_number": "036",
+          "verse_data": [
+            "कालो गन्तुं गतिं मुख्यां भवतामपि भारत",
+            "एतच्छ्रेयो हि वो मन्ये परमं भरतर्षभ"
+          ],
+          "verse_translation": {
+            "google_trans": "Time to go to the main movement of yours too, India I think this is better for you, O best of the Bharatas",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 39,
+          "verse_number": "037",
+          "verse_data": [
+            "एतद्वचनमाज्ञाय व्यासस्यामिततेजसः",
+            "अनुज्ञातो ययौ पार्थो नगरं नागसाह्वयम्"
+          ],
+          "verse_translation": {
+            "google_trans": "Knowing this, Vyasa, the immeasurably effulgent one. Permitted, Partha went to the city of Nagasahvaya.",
+            "kmg_trans": ""
+          }
+        },
+        {
+          "verse_id": 40,
+          "verse_number": "038",
+          "verse_data": [
+            "प्रविश्य च पुरीं वीरः समासाद्य युधिष्ठिरम्",
+            "आचष्ट तद्यथावृत्तं वृष्ण्यन्धकजनं प्रति"
+          ],
+          "verse_translation": {
+            "google_trans": "The hero entered the city and reached Yudhisthira He told him about the Vrishnyandhakas as it happened",
+            "kmg_trans": ""
+          }
+        }
+      ],
+      "chapter_total_verses": 41
+    }
+  ],
+  "book_total_verses": 287,
+  "num_chapters": 9
+}
