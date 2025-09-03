@@ -31,9 +31,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Your ancestors have reached heaven and reaching heaven Listen to what Yudhisthira and others did."
+                        "google_trans": "Vaishampayana said: Your ancestors have reached heaven and reaching heaven Listen to what Yudhisthira and others did."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "स्वर्गं त्रिविष्टपं प्राप्य तव पूर्वपितामहाः",
                         "युधिष्ठिरप्रभृतयो यदकुर्वत तच्छृणु"
                     ]
@@ -278,9 +279,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "I don't see here, O gods, Radhey, immeasurably powerful. The brothers and the great men of Yudhamanyuttamaujasau"
+                        "google_trans": "Yudhisthira said: I don't see here, O gods, Radhey, immeasurably powerful. The brothers and the great men of Yudhamanyuttamaujasau"
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "नेह पश्यामि विबुधा राधेयममितौजसम्",
                         "भ्रातरौ च महात्मानौ युधामन्यूत्तमौजसौ"
                     ]
@@ -398,9 +400,10 @@
                 {
                     "verse_id": "013",
                     "verse_translation": {
-                        "google_trans": "If you have faith there, go, my son, don't be there. Dear for you behave at the command of the king of the gods"
+                        "google_trans": "The gods said: If you have faith there, go, my son, don't be there. Dear for you behave at the command of the king of the gods"
                     },
                     "verse_sans_lines": [
+                        "देवा ऊचुः",
                         "यदि वै तत्र ते श्रद्धा गम्यतां पुत्र माचिरम्",
                         "प्रिये हि तव वर्तामो देवराजस्य शासनात्"
                     ]
@@ -408,9 +411,10 @@
                 {
                     "verse_id": "014",
                     "verse_translation": {
-                        "google_trans": "Having said this, the gods then advised the angel of the gods. Show me the friend of Yudhisthira, O Parantapa"
+                        "google_trans": "Vaishampayana said: Having said this, the gods then advised the angel of the gods. Show me the friend of Yudhisthira, O Parantapa"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "इत्युक्त्वा तं ततो देवा देवदूतमुपादिशन्",
                         "युधिष्ठिरस्य सुहृदो दर्शयेति परंतप"
                     ]
@@ -825,9 +829,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In the moment, Partha, the king of Dharma, Yudhisthira, The gods, the gods of the Kauravas, came there, led by Indra."
+                        "google_trans": "Vaishampayana said: In the moment, Partha, the king of Dharma, Yudhisthira, The gods, the gods of the Kauravas, came there, led by Indra."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "स्थिते मुहूर्तं पार्थे तु धर्मराजे युधिष्ठिरे",
                         "आजग्मुस्तत्र कौरव्य देवाः शक्रपुरोगमाः"
                     ]
@@ -1246,9 +1251,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then King Yudhisthira, the gods, the sages and the Maruts. Worshiped, he went to where they were, the chiefs of the Kurus."
+                        "google_trans": "Vaishampayana said: Then King Yudhisthira, the gods, the sages and the Maruts. Worshiped, he went to where they were, the chiefs of the Kurus."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ततो युधिष्ठिरो राजा देवैः सर्षिमरुद्गणैः",
                         "पूज्यमानो ययौ तत्र यत्र ते कुरुपुंगवाः"
                     ]
@@ -1446,9 +1452,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Bhishma and Drona were great and Dhritarashtra and the earthly king Viratadrupada and both the conch and the north"
+                        "google_trans": "Janamejaya said: Bhishma and Drona were great and Dhritarashtra and the earthly king Viratadrupada and both the conch and the north"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "भीष्मद्रोणौ महात्मानौ धृतराष्ट्रश्च पार्थिवः",
                         "विराटद्रुपदौ चोभौ शङ्खश्चैवोत्तरस्तथा"
                     ]
@@ -1497,9 +1504,10 @@
                 {
                     "verse_id": "006",
                     "verse_translation": {
-                        "google_trans": "Thus addressed by the great sage Viprarshi Vyasa began to tell the king"
+                        "google_trans": "Suta said: Thus addressed by the great sage Viprarshi Vyasa began to tell the king"
                     },
                     "verse_sans_lines": [
+                        "सूत उवाच",
                         "इत्युक्तः स तु विप्रर्षिरनुज्ञातो महात्मना",
                         "व्यासेन तस्य नृपतेराख्यातुमुपचक्रमे"
                     ]
@@ -1507,9 +1515,10 @@
                 {
                     "verse_id": "007",
                     "verse_translation": {
-                        "google_trans": "O lord of men at the end of all actions to go Hear this secret of the gods, O king, O best of the Bharatas. What the mighty divine eyes spoke to the mighty"
+                        "google_trans": "Vaishampayana said: O lord of men at the end of all actions to go Hear this secret of the gods, O king, O best of the Bharatas. What the mighty divine eyes spoke to the mighty"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "गन्तव्यं कर्मणामन्ते सर्वेण मनुजाधिप",
                         "शृणु गुह्यमिदं राजन्देवानां भरतर्षभ",
                         "यदुवाच महातेजा दिव्यचक्षुः प्रतापवान्"
@@ -1700,9 +1709,10 @@
                 {
                     "verse_id": "026",
                     "verse_translation": {
-                        "google_trans": "Hearing this, the king Janamejaya from the best of the twins He was astonished at the other sacrifices and in other sacrifices"
+                        "google_trans": "Suta said: Hearing this, the king Janamejaya from the best of the twins He was astonished at the other sacrifices and in other sacrifices"
                     },
                     "verse_sans_lines": [
+                        "सूत उवाच",
                         "एतच्छ्रुत्वा द्विजश्रेष्ठात्स राजा जनमेजयः",
                         "विस्मितोऽभवदत्यर्थं यज्ञकर्मान्तरेष्वथ"
                     ]

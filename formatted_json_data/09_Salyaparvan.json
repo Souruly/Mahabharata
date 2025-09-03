@@ -41,9 +41,10 @@
                 {
                     "verse_id": "004",
                     "verse_translation": {
-                        "google_trans": "Then, when Karna was killed, O king, Dhritarashtra, Suyodhana. He was drowned in the ocean of sorrow and disappointment from all sides"
+                        "google_trans": "Vaishampayana said: Then, when Karna was killed, O king, Dhritarashtra, Suyodhana. He was drowned in the ocean of sorrow and disappointment from all sides"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ततः कर्णे हते राजन्धार्तराष्ट्रः सुयोधनः",
                         "भृशं शोकार्णवे मग्नो निराशः सर्वतोऽभवत्"
                     ]
@@ -544,9 +545,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Dhritarashtra, the son of Ambika, was released from the women. He lamented, O great king, who has gone more painful than suffering"
+                        "google_trans": "Vaishampayana said: Dhritarashtra, the son of Ambika, was released from the women. He lamented, O great king, who has gone more painful than suffering"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "विसृष्टास्वथ नारीषु धृतराष्ट्रोऽम्बिकासुतः",
                         "विललाप महाराज दुःखाद्दुःखतरं गतः"
                     ]
@@ -1203,9 +1205,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Hear, O king, who has been brought down by the great decay as it has happened. Having reached the Kurus and the Pandavas"
+                        "google_trans": "Sanjaya said: Hear, O king, who has been brought down by the great decay as it has happened. Having reached the Kurus and the Pandavas"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "शृणु राजन्नवहितो यथा वृत्तो महान्क्षयः",
                         "कुरूणां पाण्डवानां च समासाद्य परस्परम्"
                     ]
@@ -1714,9 +1717,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Thus addressed by the king Gautama He sighed long and hot and was silent, O lord of the universe"
+                        "google_trans": "Sanjaya said: Thus addressed by the king Gautama He sighed long and hot and was silent, O lord of the universe"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एवमुक्तस्ततो राजा गौतमेन यशस्विना",
                         "निःश्वस्य दीर्घमुष्णं च तूष्णीमासीद्विशां पते"
                     ]
@@ -2225,9 +2229,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then he stood in the Prastha of the Himalayas and rejoiced in the battlefield All the warriors gathered there"
+                        "google_trans": "Sanjaya said: Then he stood in the Prastha of the Himalayas and rejoiced in the battlefield All the warriors gathered there"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अथ हैमवते प्रस्थे स्थित्वा युद्धाभिनन्दिनः",
                         "सर्व एव महाराज योधास्तत्र समागताः"
                     ]
@@ -2397,9 +2402,10 @@
                 {
                     "verse_id": "018",
                     "verse_translation": {
-                        "google_trans": "This is the family, the strength, the splendour, the fame, the beauty. May the shalya of all the virtues be our army."
+                        "google_trans": "Drauniruvacha: This is the family, the strength, the splendour, the fame, the beauty. May the shalya of all the virtues be our army."
                     },
                     "verse_sans_lines": [
+                        "द्रौणिरुवाच",
                         "अयं कुलेन वीर्येण तेजसा यशसा श्रिया",
                         "सर्वैर्गुणैः समुदितः शल्यो नोऽस्तु चमूपतिः"
                     ]
@@ -2469,9 +2475,10 @@
                 {
                     "verse_id": "025",
                     "verse_translation": {
-                        "google_trans": "I do whatever you think, O king, O king of the Kurus. For for your pleasure, I have all my life, kingdom and wealth."
+                        "google_trans": "Shalya said: I do whatever you think, O king, O king of the Kurus. For for your pleasure, I have all my life, kingdom and wealth."
                     },
                     "verse_sans_lines": [
+                        "शल्य उवाच",
                         "यत्तु मां मन्यसे राजन्कुरुराज करोमि तत्",
                         "त्वत्प्रियार्थं हि मे सर्वं प्राणा राज्यं धनानि च"
                     ]
@@ -2479,9 +2486,10 @@
                 {
                     "verse_id": "026",
                     "verse_translation": {
-                        "google_trans": "I choose you with the command of the army, my maternal uncle So protect us, O best of the battles, O Skanda, O god of the gods."
+                        "google_trans": "Duryodhana said: I choose you with the command of the army, my maternal uncle So protect us, O best of the battles, O Skanda, O god of the gods."
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "सेनापत्येन वरये त्वामहं मातुलातुलम्",
                         "सोऽस्मान्पाहि युधां श्रेष्ठ स्कन्दो देवानिवाहवे"
                     ]
@@ -2506,9 +2514,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Hearing this, the king of the Madras was mighty Duryodhana then, O king, said these words."
+                        "google_trans": "Sanjaya said: Hearing this, the king of the Madras was mighty Duryodhana then, O king, said these words."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एतच्छ्रुत्वा वचो राज्ञो मद्रराजः प्रतापवान्",
                         "दुर्योधनं तदा राजन्वाक्यमेतदुवाच ह"
                     ]
@@ -2611,9 +2620,10 @@
                 {
                     "verse_id": "011",
                     "verse_translation": {
-                        "google_trans": "Today I am in battle with all the Panchalas with the Pandavas I will kill, O King, I will go to heaven or I will be killed."
+                        "google_trans": "Shalya said: Today I am in battle with all the Panchalas with the Pandavas I will kill, O King, I will go to heaven or I will be killed."
                     },
                     "verse_sans_lines": [
+                        "शल्य उवाच",
                         "अद्यैवाहं रणे सर्वान्पाञ्चालान्सह पाण्डवैः",
                         "निहनिष्यामि राजेन्द्र स्वर्गं यास्यामि वा हतः"
                     ]
@@ -2682,9 +2692,10 @@
                 {
                     "verse_id": "018",
                     "verse_translation": {
-                        "google_trans": "Abhishek then Shalya in your armies, Hon. There were no arguing of the ears there, India."
+                        "google_trans": "Sanjaya said: Abhishek then Shalya in your armies, Hon. There were no arguing of the ears there, India."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अभिषिक्ते तदा शल्ये तव सैन्येषु मानद",
                         "न कर्णव्यसनं किंचिन्मेनिरे तत्र भारत"
                     ]
@@ -2933,9 +2944,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The night passed but King Duryodhana then The great charioteers should be armed with all the tavakas"
+                        "google_trans": "Sanjaya said: The night passed but King Duryodhana then The great charioteers should be armed with all the tavakas"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "व्यतीतायां रजन्यां तु राजा दुर्योधनस्तदा",
                         "अब्रवीत्तावकान्सर्वान्संनह्यन्तां महारथाः"
                     ]
@@ -3054,9 +3066,10 @@
                 {
                     "verse_id": "013",
                     "verse_translation": {
-                        "google_trans": "I have heard of Drona, Bhishma and Radheya. Tell me the fall again and again my son is my son"
+                        "google_trans": "Dhritarashtra said: I have heard of Drona, Bhishma and Radheya. Tell me the fall again and again my son is my son"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "द्रोणस्य भीष्मस्य च वै राधेयस्य च मे श्रुतम्",
                         "पातनं शंस मे भूयः शल्यस्याथ सुतस्य मे"
                     ]
@@ -3074,9 +3087,10 @@
                 {
                     "verse_id": "015",
                     "verse_translation": {
-                        "google_trans": "Destruction of human bodies, chariots, elephants and horses. Listen, O king, being steady, I praise the battle."
+                        "google_trans": "Sanjaya said: Destruction of human bodies, chariots, elephants and horses. Listen, O king, being steady, I praise the battle."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "क्षयं मनुष्यदेहानां रथनागाश्वसंक्षयम्",
                         "शृणु राजन्स्थिरो भूत्वा संग्रामं शंसतो मम"
                     ]
@@ -3266,9 +3280,10 @@
                 {
                     "verse_id": "034",
                     "verse_translation": {
-                        "google_trans": "killed Bhishma, the great archer, Drona, Karne, the great charioteer Kurushvalampashisheshu Pandava and Sanyuga"
+                        "google_trans": "Dhritarashtra said: killed Bhishma, the great archer, Drona, Karne, the great charioteer Kurushvalampashisheshu Pandava and Sanyuga"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "हते भीष्मे महेष्वासे द्रोणे कर्णे महारथे",
                         "कुरुष्वल्पावशिष्टेषु पाण्डवेषु च संयुगे"
                     ]
@@ -3286,9 +3301,10 @@
                 {
                     "verse_id": "036",
                     "verse_translation": {
-                        "google_trans": "as we are equal to the other king for battle As long as there was the strength of the rest, listen to me in the battle."
+                        "google_trans": "Sanjaya said: as we are equal to the other king for battle As long as there was the strength of the rest, listen to me in the battle."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "यथा वयं परे राजन्युद्धाय समवस्थिताः",
                         "यावच्चासीद्बलं शिष्टं संग्रामे तन्निबोध मे"
                     ]
@@ -3383,9 +3399,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then the battle began, the fear of the Kurus. With the Srinjayas, O King, the terrible like the gods and demons."
+                        "google_trans": "Sanjaya said: Then the battle began, the fear of the Kurus. With the Srinjayas, O King, the terrible like the gods and demons."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततः प्रववृते युद्धं कुरूणां भयवर्धनम्",
                         "सृञ्जयैः सह राजेन्द्र घोरं देवासुरोपमम्"
                     ]
@@ -3852,9 +3869,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The king of Madras, seeing the broken force, was mighty He said to the charioteer at once, urging the horse, the great speed."
+                        "google_trans": "Sanjaya said: The king of Madras, seeing the broken force, was mighty He said to the charioteer at once, urging the horse, the great speed."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तत्प्रभग्नं बलं दृष्ट्वा मद्रराजः प्रतापवान्",
                         "उवाच सारथिं तूर्णं चोदयाश्वान्महाजवान्"
                     ]
@@ -4514,9 +4532,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In that slaughtered army slaughtered each other In the floods of warriors and in the sounds of the sounds"
+                        "google_trans": "Sanjaya said: In that slaughtered army slaughtered each other In the floods of warriors and in the sounds of the sounds"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तस्मिन्विलुलिते सैन्ये वध्यमाने परस्परम्",
                         "द्रवमाणेषु योधेषु निनदत्सु च दन्तिषु"
                     ]
@@ -5087,9 +5106,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Seeing the fallen, the shalya, the shalya, the whole iron club. He took the king and stood there like a mountain"
+                        "google_trans": "Sanjaya said: Seeing the fallen, the shalya, the shalya, the whole iron club. He took the king and stood there like a mountain"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "पतितं प्रेक्ष्य यन्तारं शल्यः सर्वायसीं गदाम्",
                         "आदाय तरसा राजंस्तस्थौ गिरिरिवाचलः"
                     ]
@@ -5724,9 +5744,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In the tormented Dharmaraja, Madraraja, Marisha, Satyaki and Bhimasena and the sons of Madri and the Pandavas Surrounded by chariots, he tormented the surgeon in the battlefield"
+                        "google_trans": "Sanjaya said: In the tormented Dharmaraja, Madraraja, Marisha, Satyaki and Bhimasena and the sons of Madri and the Pandavas Surrounded by chariots, he tormented the surgeon in the battlefield"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "पीडिते धर्मराजे तु मद्रराजेन मारिष",
                         "सात्यकिर्भीमसेनश्च माद्रीपुत्रौ च पाण्डवौ",
                         "परिवार्य रथैः शल्यं पीडयामासुराहवे"
@@ -6187,9 +6208,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Arjuna was struck by Draupadi with many iron battles and his followers of the heroes of the three-carrier chariots He struck Draupadi in battle with three faces of Shilimukha"
+                        "google_trans": "Sanjaya said: Arjuna was struck by Draupadi with many iron battles and his followers of the heroes of the three-carrier chariots He struck Draupadi in battle with three faces of Shilimukha"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अर्जुनो द्रौणिना विद्धो युद्धे बहुभिरायसैः",
                         "तस्य चानुचरैः शूरैस्त्रिगर्तानां महारथैः",
                         "द्रौणिं विव्याध समरे त्रिभिरेव शिलीमुखैः"
@@ -6649,9 +6671,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Duryodhana, Maharaja, Dhrishtadyumna and his attendants They fought a great battle with arrows and powers"
+                        "google_trans": "Sanjaya said: Duryodhana, Maharaja, Dhrishtadyumna and his attendants They fought a great battle with arrows and powers"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "दुर्योधनो महाराज धृष्टद्युम्नश्च पार्षतः",
                         "चक्रतुः सुमहद्युद्धं शरशक्तिसमाकुलम्"
                     ]
@@ -7070,9 +7093,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then your armies, O lord, were rewarded by the king of Madras. They returned to the Parthas with great speed in battle"
+                        "google_trans": "Sanjaya said: Then your armies, O lord, were rewarded by the king of Madras. They returned to the Parthas with great speed in battle"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततः सैन्यास्तव विभो मद्रराजपुरस्कृताः",
                         "पुनरभ्यद्रवन्पार्थान्वेगेन महता रणे"
                     ]
@@ -7749,9 +7773,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then he took another bow with strong speed Yudhisthira, the Madrapati, struck the lion like a lion."
+                        "google_trans": "Sanjaya said: Then he took another bow with strong speed Yudhisthira, the Madrapati, struck the lion like a lion."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अथान्यद्धनुरादाय बलवद्वेगवत्तरम्",
                         "युधिष्ठिरं मद्रपतिर्विद्ध्वा सिंह इवानदत्"
                     ]
@@ -8631,9 +8656,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Shalya, however, was killed, O king, followed by the king of Madras. Seven hundred chariots and heroes went out of great strength"
+                        "google_trans": "Sanjaya said: Shalya, however, was killed, O king, followed by the king of Madras. Seven hundred chariots and heroes went out of great strength"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "शल्ये तु निहते राजन्मद्रराजपदानुगाः",
                         "रथाः सप्तशता वीरा निर्ययुर्महतो बलात्"
                     ]
@@ -8832,9 +8858,10 @@
                 {
                     "verse_id": "021",
                     "verse_translation": {
-                        "google_trans": "I didn’t do these words before I stopping me. For all these are killed by the Panduvahini"
+                        "google_trans": "Duryodhana said: I didn’t do these words before I stopping me. For all these are killed by the Panduvahini"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "वार्यमाणा मया पूर्वं नैते चक्रुर्वचो मम",
                         "एते हि निहताः सर्वे प्रस्कन्नाः पाण्डुवाहिनीम्"
                     ]
@@ -8842,9 +8869,10 @@
                 {
                     "verse_id": "022",
                     "verse_translation": {
-                        "google_trans": "The heroes do not rule the husband’s command in battle. It is not enough to ignore the time for them"
+                        "google_trans": "Shakuniruvacha: The heroes do not rule the husband’s command in battle. It is not enough to ignore the time for them"
                     },
                     "verse_sans_lines": [
+                        "शकुनिरुवाच",
                         "न भर्तुः शासनं वीरा रणे कुर्वन्त्यमर्षिताः",
                         "अलं क्रोद्धुं तथैतेषां नायं काल उपेक्षितुम्"
                     ]
@@ -8872,9 +8900,10 @@
                 {
                     "verse_id": "025",
                     "verse_translation": {
-                        "google_trans": "Thus addressed, the king was surrounded by great force. He set out with the roar of a lion, shaking the earth."
+                        "google_trans": "Sanjaya said: Thus addressed, the king was surrounded by great force. He set out with the roar of a lion, shaking the earth."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एवमुक्तस्ततो राजा बलेन महता वृतः",
                         "प्रययौ सिंहनादेन कम्पयन्वै वसुंधराम्"
                     ]
@@ -9031,9 +9060,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Falls in battle, the invincible king of Madras, the great charioteer. Tavaka and your sons were often averse"
+                        "google_trans": "Sanjaya said: Falls in battle, the invincible king of Madras, the great charioteer. Tavaka and your sons were often averse"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "पातिते युधि दुर्धर्षे मद्रराजे महारथे",
                         "तावकास्तव पुत्राश्च प्रायशो विमुखाभवन्"
                     ]
@@ -9695,9 +9725,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In the retirement of the army, Shalva, the lord of the Mlecchas, The angry Pandavas attacked the great force of the Pandavas"
+                        "google_trans": "Sanjaya said: In the retirement of the army, Shalva, the lord of the Mlecchas, The angry Pandavas attacked the great force of the Pandavas"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "संनिवृत्ते बलौघे तु शाल्वो म्लेच्छगणाधिपः",
                         "अभ्यवर्तत संक्रुद्धः पाण्डूनां सुमहद्बलम्"
                     ]
@@ -9963,9 +9994,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In that slaughter, Shalve, the committee decorated. Your strength is like a great tree in the wind of speed"
+                        "google_trans": "Sanjaya said: In that slaughter, Shalve, the committee decorated. Your strength is like a great tree in the wind of speed"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तस्मिंस्तु निहते शूरे शाल्वे समितिशोभने",
                         "तवाभज्यद्बलं वेगाद्वातेनेव महाद्रुमः"
                     ]
@@ -10331,9 +10363,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Your son, O great king, is the best of the charioteers in the chariot. He shone like Rudra in battle, as if he were a mighty warrior."
+                        "google_trans": "Sanjaya said: Your son, O great king, is the best of the charioteers in the chariot. He shone like Rudra in battle, as if he were a mighty warrior."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "पुत्रस्तु ते महाराज रथस्थो रथिनां वरः",
                         "दुरुत्सहो बभौ युद्धे यथा रुद्रः प्रतापवान्"
                     ]
@@ -10788,9 +10821,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In the present and in the terrible form of the terrible The force of your son was defeated there by the Pandavas"
+                        "google_trans": "Sanjaya said: In the present and in the terrible form of the terrible The force of your son was defeated there by the Pandavas"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "वर्तमाने तथा युद्धे घोररूपे भयानके",
                         "अभज्यत बलं तत्र तव पुत्रस्य पाण्डवैः"
                     ]
@@ -11682,9 +11716,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In that word, when the Pandavas were killed, the Pandavas were killed. Saubal was reversed by seven hundred horses"
+                        "google_trans": "Sanjaya said: In that word, when the Pandavas were killed, the Pandavas were killed. Saubal was reversed by seven hundred horses"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तस्मिञ्शब्दे मृदौ जाते पाण्डवैर्निहते बले",
                         "अश्वैः सप्तशतैः शिष्टैरुपावर्तत सौबलः"
                     ]
@@ -12166,9 +12201,10 @@
                 {
                     "verse_id": "049",
                     "verse_translation": {
-                        "google_trans": "Abhishuhasto Dasarhastathokta Savyasachina He entered the battlefield in fear of his friends"
+                        "google_trans": "Sanjaya said: Abhishuhasto Dasarhastathokta Savyasachina He entered the battlefield in fear of his friends"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अभीशुहस्तो दाशार्हस्तथोक्तः सव्यसाचिना",
                         "तद्बलौघममित्राणामभीतः प्राविशद्रणे"
                     ]
@@ -12333,9 +12369,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Let us try to try to try to do so Resolution did not resolve, Dhananjaya by Gandhiva"
+                        "google_trans": "Sanjaya said: Let us try to try to try to do so Resolution did not resolve, Dhananjaya by Gandhiva"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अस्यतां यतमानानां शूराणामनिवर्तिनाम्",
                         "संकल्पमकरोन्मोघं गाण्डीवेन धनंजयः"
                     ]
@@ -12910,9 +12947,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "When he was killed by Gajanike, he was by the son of Pandu, India In the battle of Bala and Bhimasena in battle"
+                        "google_trans": "Sanjaya said: When he was killed by Gajanike, he was by the son of Pandu, India In the battle of Bala and Bhimasena in battle"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "गजानीके हते तस्मिन्पाण्डुपुत्रेण भारत",
                         "वध्यमाने बले चैव भीमसेनेन संयुगे"
                     ]
@@ -13294,9 +13332,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Duryodhana, O great king, and Sudarsha, your son The rest of the killed then arrayed in the number of horses"
+                        "google_trans": "Sanjaya said: Duryodhana, O great king, and Sudarsha, your son The rest of the killed then arrayed in the number of horses"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "दुर्योधनो महाराज सुदर्शश्चापि ते सुतः",
                         "हतशेषौ तदा संख्ये वाजिमध्ये व्यवस्थितौ"
                     ]
@@ -13848,9 +13887,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In the battle of Naravajigaja in that involved battle Shakuni, Saubala, O King, came to Sahadeva."
+                        "google_trans": "Sanjaya said: In the battle of Naravajigaja in that involved battle Shakuni, Saubala, O King, came to Sahadeva."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तस्मिन्प्रवृत्ते संग्रामे नरवाजिगजक्षये",
                         "शकुनिः सौबलो राजन्सहदेवं समभ्ययात्"
                     ]
@@ -14492,9 +14532,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then, O great king, they followed the feet of Saubal Leaving behind his life, he cried out to the Pandavas."
+                        "google_trans": "Sanjaya said: Then, O great king, they followed the feet of Saubal Leaving behind his life, he cried out to the Pandavas."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततः क्रुद्धा महाराज सौबलस्य पदानुगाः",
                         "त्यक्त्वा जीवितमाक्रन्दे पाण्डवान्पर्यवारयन्"
                     ]
@@ -14674,9 +14715,10 @@
                 {
                     "verse_id": "019",
                     "verse_translation": {
-                        "google_trans": "killed my army for the rest of the camp The strength of the Pandavas, O Suta, was the rest of it then. Tell me this as I ask you, O Sanjaya, you are well, Sanjaya"
+                        "google_trans": "Dhritarashtra said: killed my army for the rest of the camp The strength of the Pandavas, O Suta, was the rest of it then. Tell me this as I ask you, O Sanjaya, you are well, Sanjaya"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "निहते मामके सैन्ये निःशेषे शिबिरे कृते",
                         "पाण्डवानां बलं सूत किं नु शेषमभूत्तदा",
                         "एतन्मे पृच्छतो ब्रूहि कुशलो ह्यसि संजय"
@@ -14695,9 +14737,10 @@
                 {
                     "verse_id": "021",
                     "verse_translation": {
-                        "google_trans": "Two thousand chariots and seven hundred serpents Five thousand horses and hundreds of leaves"
+                        "google_trans": "Sanjaya said: Two thousand chariots and seven hundred serpents Five thousand horses and hundreds of leaves"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "रथानां द्वे सहस्रे तु सप्त नागशतानि च",
                         "पञ्च चाश्वसहस्राणि पत्तीनां च शतं शताः"
                     ]
@@ -15349,9 +15392,10 @@
                 {
                     "verse_id": "086",
                     "verse_translation": {
-                        "google_trans": "killed the birds, my father, son of the relatives. King Duryodhana then killed the rest of his family He left his horse and fainted with fear facing east"
+                        "google_trans": "Yuyutsuruvacha: killed the birds, my father, son of the relatives. King Duryodhana then killed the rest of his family He left his horse and fainted with fear facing east"
                     },
                     "verse_sans_lines": [
+                        "युयुत्सुरुवाच",
                         "निहते शकुनौ तात सज्ञातिसुतबान्धवे",
                         "हतशेषपरीवारो राजा दुर्योधनस्ततः",
                         "स्वकं स हयमुत्सृज्य प्राङ्मुखः प्राद्रवद्भयात्"
@@ -15429,9 +15473,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The sons of Pandu were killed in the battles killed What did you do, Sanjaya, for my military military"
+                        "google_trans": "Dhritarashtra said: The sons of Pandu were killed in the battles killed What did you do, Sanjaya, for my military military"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "हतेषु सर्वसैन्येषु पाण्डुपुत्रै रणाजिरे",
                         "मम सैन्यावशिष्टास्ते किमकुर्वत संजय"
                     ]
@@ -15449,9 +15494,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "In the wives of the great Kshatriyas, the wives of the dead. Three chariots were greatly agitated when the camp was fled"
+                        "google_trans": "Sanjaya said: In the wives of the great Kshatriyas, the wives of the dead. Three chariots were greatly agitated when the camp was fled"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "संप्राद्रवत्सु दारेषु क्षत्रियाणां महात्मनाम्",
                         "विद्रुते शिबिरे शून्ये भृशोद्विग्नास्त्रयो रथाः"
                     ]
@@ -15560,9 +15606,10 @@
                 {
                     "verse_id": "014",
                     "verse_translation": {
-                        "google_trans": "Fortunately I see you free from such a man's destruction Pandava and Kauravasammardajjivannarrshabhan"
+                        "google_trans": "Duryodhana said: Fortunately I see you free from such a man's destruction Pandava and Kauravasammardajjivannarrshabhan"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "दिष्ट्या पश्यामि वो मुक्तानीदृशात्पुरुषक्षयात्",
                         "पाण्डुकौरवसंमर्दाज्जीवमानान्नरर्षभान्"
                     ]
@@ -15601,9 +15648,10 @@
                 {
                     "verse_id": "018",
                     "verse_translation": {
-                        "google_trans": "Thus addressed, Drauni said to the king, who was mad about war. Get up, O king, good for you, let us conquer others in battle."
+                        "google_trans": "Sanjaya said: Thus addressed, Drauni said to the king, who was mad about war. Get up, O king, good for you, let us conquer others in battle."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एवमुक्तोऽब्रवीद्द्रौणी राजानं युद्धदुर्मदम्",
                         "उत्तिष्ठ राजन्भद्रं ते विजेष्यामो रणे परान्"
                     ]
@@ -16100,9 +16148,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then the Pandavas in the three chariots They returned to the lake where Duryodhana became"
+                        "google_trans": "Sanjaya said: Then the Pandavas in the three chariots They returned to the lake where Duryodhana became"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततस्तेष्वपयातेषु रथेषु त्रिषु पाण्डवाः",
                         "तं ह्रदं प्रत्यपद्यन्त यत्र दुर्योधनोऽभवत्"
                     ]
@@ -16151,9 +16200,10 @@
                 {
                     "verse_id": "006",
                     "verse_translation": {
-                        "google_trans": "Mayavin Im Mayaam Maya Jahi Bharata Mayavi Maya is to be killed by the truth, O Yudhisthira."
+                        "google_trans": "Sri Vasudeva said: Mayavin Im Mayaam Maya Jahi Bharata Mayavi Maya is to be killed by the truth, O Yudhisthira."
                     },
                     "verse_sans_lines": [
+                        "श्रीवासुदेव उवाच",
                         "मायाविन इमां मायां मायया जहि भारत",
                         "मायावी मायया वध्यः सत्यमेतद्युधिष्ठिर"
                     ]
@@ -16243,9 +16293,10 @@
                 {
                     "verse_id": "015",
                     "verse_translation": {
-                        "google_trans": "Thus addressed by Vasudeva, the Pandavas were austere vows The waters in the water, O great king, the mighty Kaunteya said, laughing as India"
+                        "google_trans": "Sanjaya said: Thus addressed by Vasudeva, the Pandavas were austere vows The waters in the water, O great king, the mighty Kaunteya said, laughing as India"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "इत्युक्तो वासुदेवेन पाण्डवः संशितव्रतः",
                         "जलस्थं तं महाराज तव पुत्रं महाबलम्",
                         "अभ्यभाषत कौन्तेयः प्रहसन्निव भारत"
@@ -16444,9 +16495,10 @@
                 {
                     "verse_id": "035",
                     "verse_translation": {
-                        "google_trans": "This is not a picture, sir, that the fear enters the creatures. I am not afraid of fear of my life, O India"
+                        "google_trans": "Duryodhana said: This is not a picture, sir, that the fear enters the creatures. I am not afraid of fear of my life, O India"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "नैतच्चित्रं महाराज यद्भीः प्राणिनमाविशेत्",
                         "न च प्राणभयाद्भीतो व्यपयातोऽस्मि भारत"
                     ]
@@ -16484,9 +16536,10 @@
                 {
                     "verse_id": "039",
                     "verse_translation": {
-                        "google_trans": "We were all assurances for a long time. That is now, get up and fight here, Suyodhana."
+                        "google_trans": "Yudhisthira said: We were all assurances for a long time. That is now, get up and fight here, Suyodhana."
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "आश्वस्ता एव सर्वे स्म चिरं त्वां मृगयामहे",
                         "तदिदानीं समुत्तिष्ठ युध्यस्वेह सुयोधन"
                     ]
@@ -16504,9 +16557,10 @@
                 {
                     "verse_id": "041",
                     "verse_translation": {
-                        "google_trans": "For what purpose I desire the kingdom of the Kurus, O son of the Kurus They are all killed by my brothers, Lord of the people"
+                        "google_trans": "Duryodhana said: For what purpose I desire the kingdom of the Kurus, O son of the Kurus They are all killed by my brothers, Lord of the people"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "यदर्थं राज्यमिच्छामि कुरूणां कुरुनन्दन",
                         "त इमे निहताः सर्वे भ्रातरो मे जनेश्वर"
                     ]
@@ -16604,9 +16658,10 @@
                 {
                     "verse_id": "051",
                     "verse_translation": {
-                        "google_trans": "Don’t talk to the distressed, my father, in the waters. This is not my mind, O king, as in the birds."
+                        "google_trans": "Yudhisthira said: Don’t talk to the distressed, my father, in the waters. This is not my mind, O king, as in the birds."
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "आर्तप्रलापान्मा तात सलिलस्थः प्रभाषथाः",
                         "नैतन्मनसि मे राजन्वाशितं शकुनेरिव"
                     ]
@@ -16776,9 +16831,10 @@
                 {
                     "verse_id": "068",
                     "verse_translation": {
-                        "google_trans": "Thus, however, various words are victorious again and again They were brave men and there and there, O lord of the people."
+                        "google_trans": "Sanjaya said: Thus, however, various words are victorious again and again They were brave men and there and there, O lord of the people."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एवं तु विविधा वाचो जययुक्ताः पुनः पुनः",
                         "कीर्तयन्ति स्म ते वीरास्तत्र तत्र जनाधिप"
                     ]
@@ -16793,9 +16849,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Thus threatened, my son, the king. How was the heroic man in nature, but he was a great man"
+                        "google_trans": "Dhritarashtra said: Thus threatened, my son, the king. How was the heroic man in nature, but he was a great man"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "एवं संतर्ज्यमानस्तु मम पुत्रो महीपतिः",
                         "प्रकृत्या मन्युमान्वीरः कथमासीत्परंतपः"
                     ]
@@ -16843,9 +16900,10 @@
                 {
                     "verse_id": "006",
                     "verse_translation": {
-                        "google_trans": "Then, threatening, O king, your son is in the water. Yudhisthira with his brothers, O King, with his brothers"
+                        "google_trans": "Sanjaya said: Then, threatening, O king, your son is in the water. Yudhisthira with his brothers, O King, with his brothers"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तर्ज्यमानस्तदा राजन्नुदकस्थस्तवात्मजः",
                         "युधिष्ठिरेण राजेन्द्र भ्रातृभिः सहितेन ह"
                     ]
@@ -17004,9 +17062,10 @@
                 {
                     "verse_id": "022",
                     "verse_translation": {
-                        "google_trans": "Fortunately you too know the Kshatriya religion, Suyodhana Fortunately you behave intelligence for battle, O mighty-armed one"
+                        "google_trans": "Yudhisthira said: Fortunately you too know the Kshatriya religion, Suyodhana Fortunately you behave intelligence for battle, O mighty-armed one"
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "दिष्ट्या त्वमपि जानीषे क्षत्रधर्मं सुयोधन",
                         "दिष्ट्या ते वर्तते बुद्धिर्युद्धायैव महाभुज"
                     ]
@@ -17044,9 +17103,10 @@
                 {
                     "verse_id": "026",
                     "verse_translation": {
-                        "google_trans": "If one is a gift, the boon is given to me today. The weapon is also chosen by your consenting club"
+                        "google_trans": "Duryodhana said: If one is a gift, the boon is given to me today. The weapon is also chosen by your consenting club"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "एकश्चेद्योद्धुमाक्रन्दे वरोऽद्य मम दीयते",
                         "आयुधानामियं चापि वृता त्वत्संमते गदा"
                     ]
@@ -17094,9 +17154,10 @@
                 {
                     "verse_id": "031",
                     "verse_translation": {
-                        "google_trans": "Get up, get up, fight me in Gandhara, Suyodhana. One of them together with the club in the battle"
+                        "google_trans": "Yudhisthira said: Get up, get up, fight me in Gandhara, Suyodhana. One of them together with the club in the battle"
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "उत्तिष्ठोत्तिष्ठ गान्धारे मां योधय सुयोधन",
                         "एक एकेन संगम्य संयुगे गदया बली"
                     ]
@@ -17114,9 +17175,10 @@
                 {
                     "verse_id": "033",
                     "verse_translation": {
-                        "google_trans": "This is the tiger of men, and your son is not to be found. He breathed like a great serpent in the waters of the waters"
+                        "google_trans": "Sanjaya said: This is the tiger of men, and your son is not to be found. He breathed like a great serpent in the waters of the waters"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एतत्स नरशार्दूलो नामृष्यत तवात्मजः",
                         "सलिलान्तर्गतः श्वभ्रे महानाग इव श्वसन्"
                     ]
@@ -17276,9 +17338,10 @@
                 {
                     "verse_id": "049",
                     "verse_translation": {
-                        "google_trans": "And by each of you, Yudhisthira, you were. There is no one who is justified by many heroes in battle"
+                        "google_trans": "Duryodhana said: And by each of you, Yudhisthira, you were. There is no one who is justified by many heroes in battle"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "एकैकेन च मां यूयमासीदत युधिष्ठिर",
                         "न ह्येको बहुभिर्न्याय्यो वीर योधयितुं युधि"
                     ]
@@ -17296,9 +17359,10 @@
                 {
                     "verse_id": "051",
                     "verse_translation": {
-                        "google_trans": "This is not your wisdom, how is it so, Suyodhana When many great warriors killed Abhimanyu in battle"
+                        "google_trans": "Yudhisthira said: This is not your wisdom, how is it so, Suyodhana When many great warriors killed Abhimanyu in battle"
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "नाभूदियं तव प्रज्ञा कथमेवं सुयोधन",
                         "यदाभिमन्युं बहवो जघ्नुर्युधि महारथाः"
                     ]
@@ -17328,9 +17392,10 @@
                 {
                     "verse_id": "054",
                     "verse_translation": {
-                        "google_trans": "Then your son, O king, took the golden armor. and the strange head-weapons are refined with the Jambunada."
+                        "google_trans": "Sanjaya said: Then your son, O king, took the golden armor. and the strange head-weapons are refined with the Jambunada."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततस्तव सुतो राजन्वर्म जग्राह काञ्चनम्",
                         "विचित्रं च शिरस्त्राणं जाम्बूनदपरिष्कृतम्"
                     ]
@@ -17406,9 +17471,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Thus, Duryodhana, the king, roaring again and again. Vasudeva said this to Yudhisthira and said this"
+                        "google_trans": "Sanjaya said: Thus, Duryodhana, the king, roaring again and again. Vasudeva said this to Yudhisthira and said this"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "एवं दुर्योधने राजन्गर्जमाने मुहुर्मुहुः",
                         "युधिष्ठिरस्य संक्रुद्धो वासुदेवोऽब्रवीदिदम्"
                     ]
@@ -17546,9 +17612,10 @@
                 {
                     "verse_id": "015",
                     "verse_translation": {
-                        "google_trans": "Madhusoodana ma karsirvishadam yadunandana I will cross the other side of the enmity that is very difficult"
+                        "google_trans": "Bhima said: Madhusoodana ma karsirvishadam yadunandana I will cross the other side of the enmity that is very difficult"
                     },
                     "verse_sans_lines": [
+                        "भीम उवाच",
                         "मधुसूदन मा कार्षीर्विषादं यदुनन्दन",
                         "अद्य पारं गमिष्यामि वैरस्य भृशदुर्गमम्"
                     ]
@@ -17586,9 +17653,10 @@
                 {
                     "verse_id": "019",
                     "verse_translation": {
-                        "google_trans": "And when Vasudeva converses, Vrikodara is talking about He worshiped him with joy and said these words"
+                        "google_trans": "Sanjaya said: And when Vasudeva converses, Vrikodara is talking about He worshiped him with joy and said these words"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तथा संभाषमाणं तु वासुदेवो वृकोदरम्",
                         "हृष्टः संपूजयामास वचनं चेदमब्रवीत्"
                     ]
@@ -17856,9 +17924,10 @@
                 {
                     "verse_id": "046",
                     "verse_translation": {
-                        "google_trans": "What is the reason for many fighting with me Today I will destroy the faith of the battle, O tiger among men."
+                        "google_trans": "Duryodhana said: What is the reason for many fighting with me Today I will destroy the faith of the battle, O tiger among men."
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "किं कत्थितेन बहुधा युध्यस्वाद्य मया सह",
                         "अद्य तेऽहं विनेष्यामि युद्धश्रद्धां वृकोदर"
                     ]
@@ -17933,9 +18002,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In that battle, O great king, in a terrible place. All the great Pandavas were seated"
+                        "google_trans": "Sanjaya said: In that battle, O great king, in a terrible place. All the great Pandavas were seated"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तस्मिन्युद्धे महाराज संप्रवृत्ते सुदारुणे",
                         "उपविष्टेषु सर्वेषु पाण्डवेषु महात्मसु"
                     ]
@@ -18123,9 +18193,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Earlier when Rama was present in that battle The Lord invited Keshav and went with the Vrishnis"
+                        "google_trans": "Janamejaya said: Earlier when Rama was present in that battle The Lord invited Keshav and went with the Vrishnis"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "पूर्वमेव यदा रामस्तस्मिन्युद्ध उपस्थिते",
                         "आमन्त्र्य केशवं यातो वृष्णिभिः सहितः प्रभुः"
                     ]
@@ -18163,9 +18234,10 @@
                 {
                     "verse_id": "005",
                     "verse_translation": {
-                        "google_trans": "The great Pandavas, who were inserted in the sub-floating, sent to Dhritarashtra, Madhusoodana For peace, O mighty-armed one, for the welfare of all embodied beings"
+                        "google_trans": "Vaishampayana said: The great Pandavas, who were inserted in the sub-floating, sent to Dhritarashtra, Madhusoodana For peace, O mighty-armed one, for the welfare of all embodied beings"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "उपप्लव्ये निविष्टेषु पाण्डवेषु महात्मसु",
                         "प्रेषितो धृतराष्ट्रस्य समीपं मधुसूदनः",
                         "शमं प्रति महाबाहो हितार्थं सर्वदेहिनाम्"
@@ -18452,9 +18524,10 @@
                 {
                     "verse_id": "033",
                     "verse_translation": {
-                        "google_trans": "Tell me the origin of the virtues of the Saraswati holy places The fruit is the best of the two-legged and the renunciation of action"
+                        "google_trans": "Janamejaya said: Tell me the origin of the virtues of the Saraswati holy places The fruit is the best of the two-legged and the renunciation of action"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "सारस्वतानां तीर्थानां गुणोत्पत्तिं वदस्व मे",
                         "फलं च द्विपदां श्रेष्ठ कर्मनिर्वृत्तिमेव च"
                     ]
@@ -18472,9 +18545,10 @@
                 {
                     "verse_id": "035",
                     "verse_translation": {
-                        "google_trans": "The details of the holy places, O king, and the origin of virtues in all respects. Listen to the holy things I am telling you, O King."
+                        "google_trans": "Vaishampayana said: The details of the holy places, O king, and the origin of virtues in all respects. Listen to the holy things I am telling you, O King."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "तीर्थानां विस्तरं राजन्गुणोत्पत्तिं च सर्वशः",
                         "मयोच्यमानां शृणु वै पुण्यां राजेन्द्र कृत्स्नशः"
                     ]
@@ -18502,9 +18576,10 @@
                 {
                     "verse_id": "038",
                     "verse_translation": {
-                        "google_trans": "Why did Lord Soma take the tuberculosis And how did the moon drowned in him in the best of holy places"
+                        "google_trans": "Janamejaya said: Why did Lord Soma take the tuberculosis And how did the moon drowned in him in the best of holy places"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "किमर्थं भगवान्सोमो यक्ष्मणा समगृह्यत",
                         "कथं च तीर्थप्रवरे तस्मिंश्चन्द्रो न्यमज्जत"
                     ]
@@ -18522,9 +18597,10 @@
                 {
                     "verse_id": "040",
                     "verse_translation": {
-                        "google_trans": "Daksha's daughters who appeared in the appearance He gave twenty-seven daughters Daksha to the moon."
+                        "google_trans": "Vaishampayana said: Daksha's daughters who appeared in the appearance He gave twenty-seven daughters Daksha to the moon."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "दक्षस्य तनया यास्ताः प्रादुरासन्विशां पते",
                         "स सप्तविंशतिं कन्या दक्षः सोमाय वै ददौ"
                     ]
@@ -18953,9 +19029,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Therefore, the river flows from the river and is the illustrious And the great king of the three of them went to Halayudha"
+                        "google_trans": "Vaishampayana said: Therefore, the river flows from the river and is the illustrious And the great king of the three of them went to Halayudha"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "तस्मान्नदीगतं चापि उदपानं यशस्विनः",
                         "त्रितस्य च महाराज जगामाथ हलायुधः"
                     ]
@@ -18993,9 +19070,10 @@
                 {
                     "verse_id": "005",
                     "verse_translation": {
-                        "google_trans": "How to drink water, O Brahman, and how to a great ascetic What has fallen and what has been abandoned by his brothers, the best of the brahmins."
+                        "google_trans": "Janamejaya said: How to drink water, O Brahman, and how to a great ascetic What has fallen and what has been abandoned by his brothers, the best of the brahmins."
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "उदपानं कथं ब्रह्मन्कथं च सुमहातपाः",
                         "पतितः किं च संत्यक्तो भ्रातृभ्यां द्विजसत्तमः"
                     ]
@@ -19013,9 +19091,10 @@
                 {
                     "verse_id": "007",
                     "verse_translation": {
-                        "google_trans": "There were three brothers in the previous age, O king, the sages. They are like the sun in one and two and three and three on the same"
+                        "google_trans": "Vaishampayana said: There were three brothers in the previous age, O king, the sages. They are like the sun in one and two and three and three on the same"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "आसन्पूर्वयुगे राजन्मुनयो भ्रातरस्त्रयः",
                         "एकतश्च द्वितश्चैव त्रितश्चादित्यसंनिभाः"
                     ]
@@ -19492,9 +19571,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then, O king, the Halayudha came to the destruction. Sudras are afraid of hatred where Saraswati is lost"
+                        "google_trans": "Vaishampayana said: Then, O king, the Halayudha came to the destruction. Sudras are afraid of hatred where Saraswati is lost"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ततो विनशनं राजन्नाजगाम हलायुधः",
                         "शूद्राभीरान्प्रति द्वेषाद्यत्र नष्टा सरस्वती"
                     ]
@@ -19856,9 +19936,10 @@
                 {
                     "verse_id": "037",
                     "verse_translation": {
-                        "google_trans": "Why Saraswati, the Brahman, turned away from the east, then. I want to explain this to you, O best of the priests."
+                        "google_trans": "Janamejaya said: Why Saraswati, the Brahman, turned away from the east, then. I want to explain this to you, O best of the priests."
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "कस्मात्सरस्वती ब्रह्मन्निवृत्ता प्राङ्मुखी ततः",
                         "व्याख्यातुमेतदिच्छामि सर्वमध्वर्युसत्तम"
                     ]
@@ -19876,9 +19957,10 @@
                 {
                     "verse_id": "039",
                     "verse_translation": {
-                        "google_trans": "In the past, O King, in the Kritayuga, the Naimisheyas were ascetics The present in the present tense of the twelfth year Many sages responded there, O king."
+                        "google_trans": "Vaishampayana said: In the past, O King, in the Kritayuga, the Naimisheyas were ascetics The present in the present tense of the twelfth year Many sages responded there, O king."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "पूर्वं कृतयुगे राजन्नैमिषेयास्तपस्विनः",
                         "वर्तमाने सुबहुले सत्रे द्वादशवार्षिके",
                         "ऋषयो बहवो राजंस्तत्र संप्रतिपेदिरे"
@@ -20136,9 +20218,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Saptasarasvatam kasmat ka cha mankanka munih How did Siddha and Lord have ruled?"
+                        "google_trans": "Janamejaya said: Saptasarasvatam kasmat ka cha mankanka munih How did Siddha and Lord have ruled?"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "सप्तसारस्वतं कस्मात्कश्च मङ्कणको मुनिः",
                         "कथं सिद्धश्च भगवान्कश्चास्य नियमोऽभवत्"
                     ]
@@ -20156,9 +20239,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Rajansapta saraswatiyo which pervades this world Invited by the strong, there is Saraswati here and there."
+                        "google_trans": "Vaishampayana said: Rajansapta saraswatiyo which pervades this world Invited by the strong, there is Saraswati here and there."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "राजन्सप्त सरस्वत्यो याभिर्व्याप्तमिदं जगत्",
                         "आहूता बलवद्भिर्हि तत्र तत्र सरस्वती"
                     ]
@@ -20528,9 +20612,10 @@
                 {
                     "verse_id": "039",
                     "verse_translation": {
-                        "google_trans": "Don't you see the source of my hand, O Brahman. Seeing whom I was danced with great joy, Lord."
+                        "google_trans": "The sage said: Don't you see the source of my hand, O Brahman. Seeing whom I was danced with great joy, Lord."
                     },
                     "verse_sans_lines": [
+                        "ऋषिरुवाच",
                         "किं न पश्यसि मे ब्रह्मन्कराच्छाकरसं स्रुतम्",
                         "यं दृष्ट्वा वै प्रनृत्तोऽहं हर्षेण महता विभो"
                     ]
@@ -20568,9 +20653,10 @@
                 {
                     "verse_id": "043",
                     "verse_translation": {
-                        "google_trans": "I think no other than the god is greater than Rudra You are the path of the world of the gods and demons, the spear-bearer"
+                        "google_trans": "The sage said: I think no other than the god is greater than Rudra You are the path of the world of the gods and demons, the spear-bearer"
                     },
                     "verse_sans_lines": [
+                        "ऋषिरुवाच",
                         "नान्यं देवादहं मन्ये रुद्रात्परतरं महत्",
                         "सुरासुरस्य जगतो गतिस्त्वमसि शूलधृक्"
                     ]
@@ -20657,9 +20743,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "After staying there Rama worshiped the inhabitants of the ashram and Halayudha made a love in Mankanka."
+                        "google_trans": "Vaishampayana said: After staying there Rama worshiped the inhabitants of the ashram and Halayudha made a love in Mankanka."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "उषित्वा तत्र रामस्तु संपूज्याश्रमवासिनः",
                         "तथा मङ्कणके प्रीतिं शुभां चक्रे हलायुधः"
                     ]
@@ -20728,9 +20815,10 @@
                 {
                     "verse_id": "008",
                     "verse_translation": {
-                        "google_trans": "Kapalamochana, O Brahman, where is the great sage where the great sage He was freed and how his head was attached and for what reason"
+                        "google_trans": "Janamejaya said: Kapalamochana, O Brahman, where is the great sage where the great sage He was freed and how his head was attached and for what reason"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "कपालमोचनं ब्रह्मन्कथं यत्र महामुनिः",
                         "मुक्तः कथं चास्य शिरो लग्नं केन च हेतुना"
                     ]
@@ -20738,9 +20826,10 @@
                 {
                     "verse_id": "009",
                     "verse_translation": {
-                        "google_trans": "In the past, in the Dandaka forest, by the great Rama The royal tigers lived there violated the monsters there"
+                        "google_trans": "Vaishampayana said: In the past, in the Dandaka forest, by the great Rama The royal tigers lived there violated the monsters there"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "पुरा वै दण्डकारण्ये राघवेण महात्मना",
                         "वसता राजशार्दूल राक्षसास्तत्र हिंसिताः"
                     ]
@@ -20998,9 +21087,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "How did Arshtishena perform abundant austerities in abundance Sindhudvipa was also a Brahmin then"
+                        "google_trans": "Janamejaya said: How did Arshtishena perform abundant austerities in abundance Sindhudvipa was also a Brahmin then"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "कथमार्ष्टिषेणो भगवान्विपुलं तप्तवांस्तपः",
                         "सिन्धुद्वीपः कथं चापि ब्राह्मण्यं लब्धवांस्तदा"
                     ]
@@ -21018,9 +21108,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "In the past, O King, in the Kritayuga, the best of the Brāhmaṇas, Nārṣṭiṣeṇa. He was always engaged in studying in the family of Vasanguru."
+                        "google_trans": "Vaishampayana said: In the past, O King, in the Kritayuga, the best of the Brāhmaṇas, Nārṣṭiṣeṇa. He was always engaged in studying in the family of Vasanguru."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "पुरा कृतयुगे राजन्नार्ष्टिषेणो द्विजोत्तमः",
                         "वसन्गुरुकुले नित्यं नित्यमध्ययने रतः"
                     ]
@@ -21326,9 +21417,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The delight of the Yadus went away with the Brahmayonis where Dalbhya Bako Rajanpashvartham Sumahatapah He offered the nation of Dhritarashtra, the peculiar heroes."
+                        "google_trans": "Vaishampayana said: The delight of the Yadus went away with the Brahmayonis where Dalbhya Bako Rajanpashvartham Sumahatapah He offered the nation of Dhritarashtra, the peculiar heroes."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ब्रह्मयोनिभिराकीर्णं जगाम यदुनन्दनः",
                         "यत्र दाल्भ्यो बको राजन्पश्वर्थं सुमहातपाः",
                         "जुहाव धृतराष्ट्रस्य राष्ट्रं वैचित्रवीर्यिणः"
@@ -21687,9 +21779,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The carriage of Vasishta is Bhimavega how that is And why did the best of the rivers back to the sage"
+                        "google_trans": "Janamejaya said: The carriage of Vasishta is Bhimavega how that is And why did the best of the rivers back to the sage"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "वसिष्ठस्यापवाहो वै भीमवेगः कथं नु सः",
                         "किमर्थं च सरिच्छ्रेष्ठा तमृषिं प्रत्यवाहयत्"
                     ]
@@ -21707,9 +21800,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Vishvamitra, Chaiva, and Vasishta, India There was great enmity, O king, and competing with austerities."
+                        "google_trans": "Vaishampayana said: Vishvamitra, Chaiva, and Vasishta, India There was great enmity, O king, and competing with austerities."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "विश्वामित्रस्य चैवर्षेर्वसिष्ठस्य च भारत",
                         "भृशं वैरमभूद्राजंस्तपःस्पर्धाकृतं महत्"
                     ]
@@ -22089,9 +22183,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "She was cursed by the angry Vishvamitra He carried blood in that best of holy places."
+                        "google_trans": "Vaishampayana said: She was cursed by the angry Vishvamitra He carried blood in that best of holy places."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "सा शप्ता तेन क्रुद्धेन विश्वामित्रेण धीमता",
                         "तस्मिंस्तीर्थवरे शुभ्रे शोणितं समुपावहत्"
                     ]
@@ -22355,9 +22450,10 @@
                 {
                     "verse_id": "027",
                     "verse_translation": {
-                        "google_trans": "Why did the Lord Indra, the brahma-hatya, have attained And how did he become immaculate in this holy place"
+                        "google_trans": "Janamejaya said: Why did the Lord Indra, the brahma-hatya, have attained And how did he become immaculate in this holy place"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "किमर्थं भगवाञ्शक्रो ब्रह्महत्यामवाप्तवान्",
                         "कथमस्मिंश्च तीर्थे वै आप्लुत्याकल्मषोऽभवत्"
                     ]
@@ -22365,9 +22461,10 @@
                 {
                     "verse_id": "028",
                     "verse_translation": {
-                        "google_trans": "Listen to this narrative as it happened, O Lord of the people as the time of the division of Namuchervasava in the past"
+                        "google_trans": "Vaishampayana said: Listen to this narrative as it happened, O Lord of the people as the time of the division of Namuchervasava in the past"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "शृणुष्वैतदुपाख्यानं यथावृत्तं जनेश्वर",
                         "यथा बिभेद समयं नमुचेर्वासवः पुरा"
                     ]
@@ -22512,9 +22609,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "This is the influence of Saraswati, O best of the Brāhmaṇas. But you should explain the consecration of the young man, O Brahman."
+                        "google_trans": "Janamejaya said: This is the influence of Saraswati, O best of the Brāhmaṇas. But you should explain the consecration of the young man, O Brahman."
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "सरस्वत्याः प्रभावोऽयमुक्तस्ते द्विजसत्तम",
                         "कुमारस्याभिषेकं तु ब्रह्मन्व्याख्यातुमर्हसि"
                     ]
@@ -22542,9 +22640,10 @@
                 {
                     "verse_id": "004",
                     "verse_translation": {
-                        "google_trans": "This is your curiosity like the Kuru dynasty My words, Janamejaya, produce joy."
+                        "google_trans": "Vaishampayana said: This is your curiosity like the Kuru dynasty My words, Janamejaya, produce joy."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "कुरुवंशस्य सदृशमिदं कौतूहलं तव",
                         "हर्षमुत्पादयत्येतद्वचो मे जनमेजय"
                     ]
@@ -23041,9 +23140,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then all the preparations for the consecration, according to the scriptures. Brihaspati in the sacrificial fire should be offered in the sacrificial fire as per the custom"
+                        "google_trans": "Vaishampayana said: Then all the preparations for the consecration, according to the scriptures. Brihaspati in the sacrificial fire should be offered in the sacrificial fire as per the custom"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ततोऽभिषेकसंभारान्सर्वान्संभृत्य शास्त्रतः",
                         "बृहस्पतिः समिद्धेऽग्नौ जुहावाज्यं यथाविधि"
                     ]
@@ -24160,9 +24260,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Hear the mothers, O king, these young followers. I have mentioned, O hero, destroyer of the hosts of enemies."
+                        "google_trans": "Vaishampayana said: Hear the mothers, O king, these young followers. I have mentioned, O hero, destroyer of the hosts of enemies."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "शृणु मातृगणान्राजन्कुमारानुचरानिमान्",
                         "कीर्त्यमानान्मया वीर सपत्नगणसूदनान्"
                     ]
@@ -25129,9 +25230,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "I have heard this very wonderful Brahman in fact Abhishek of the young man in detail according to the method"
+                        "google_trans": "Janamejaya said: I have heard this very wonderful Brahman in fact Abhishek of the young man in detail according to the method"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "अत्यद्भुतमिदं ब्रह्मञ्श्रुतवानस्मि तत्त्वतः",
                         "अभिषेकं कुमारस्य विस्तरेण यथाविधि"
                     ]
@@ -25169,9 +25271,10 @@
                 {
                     "verse_id": "005",
                     "verse_translation": {
-                        "google_trans": "Listen, O king, this picture in the previous kalpa as it is. In the beginning of the Kritayuga, in that present manner, as per the custom All the gods said to Varuna and said this"
+                        "google_trans": "Vaishampayana said: Listen, O king, this picture in the previous kalpa as it is. In the beginning of the Kritayuga, in that present manner, as per the custom All the gods said to Varuna and said this"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "शृणु राजन्निदं चित्रं पूर्वकल्पे यथातथम्",
                         "आदौ कृतयुगे तस्मिन्वर्तमाने यथाविधि",
                         "वरुणं देवताः सर्वाः समेत्येदमथाब्रुवन्"
@@ -25272,9 +25375,10 @@
                 {
                     "verse_id": "015",
                     "verse_translation": {
-                        "google_trans": "Why the Lord Agni lost the world of the world And how did the gods know that, tell me in fact that"
+                        "google_trans": "Janamejaya said: Why the Lord Agni lost the world of the world And how did the gods know that, tell me in fact that"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "किमर्थं भगवानग्निः प्रनष्टो लोकभावनः",
                         "विज्ञातश्च कथं देवैस्तन्ममाचक्ष्व तत्त्वतः"
                     ]
@@ -25282,9 +25386,10 @@
                 {
                     "verse_id": "016",
                     "verse_translation": {
-                        "google_trans": "Bhrigu was very afraid of the curse of the Jataveda and the mighty Then, having reached the pregnancy of Shami, the Lord then destroyed."
+                        "google_trans": "Vaishampayana said: Bhrigu was very afraid of the curse of the Jataveda and the mighty Then, having reached the pregnancy of Shami, the Lord then destroyed."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "भृगोः शापाद्भृशं भीतो जातवेदाः प्रतापवान्",
                         "शमीगर्भमथासाद्य ननाश भगवांस्ततः"
                     ]
@@ -25434,9 +25539,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then Rama went to Badar digest Tapasvisiddhacharitam where the daughter Dhritavrata"
+                        "google_trans": "Vaishampayana said: Then Rama went to Badar digest Tapasvisiddhacharitam where the daughter Dhritavrata"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ततस्तीर्थवरं रामो ययौ बदरपाचनम्",
                         "तपस्विसिद्धचरितं यत्र कन्या धृतव्रता"
                     ]
@@ -25990,9 +26096,10 @@
                 {
                     "verse_id": "056",
                     "verse_translation": {
-                        "google_trans": "Who is her, Lord, and where is her beautiful mother. I wish to hear, O Brahman, for I am curious about it."
+                        "google_trans": "Janamejaya said: Who is her, Lord, and where is her beautiful mother. I wish to hear, O Brahman, for I am curious about it."
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "का तस्या भगवन्माता क्व संवृद्धा च शोभना",
                         "श्रोतुमिच्छाम्यहं ब्रह्मन्परं कौतूहलं हि मे"
                     ]
@@ -26000,9 +26107,10 @@
                 {
                     "verse_id": "057",
                     "verse_translation": {
-                        "google_trans": "The semen of the great sage Bharadwaja was the Skanna of the great sage Seeing the apsaras approaching Ghritachi with broad eyes"
+                        "google_trans": "Vaishampayana said: The semen of the great sage Bharadwaja was the Skanna of the great sage Seeing the apsaras approaching Ghritachi with broad eyes"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "भारद्वाजस्य विप्रर्षेः स्कन्नं रेतो महात्मनः",
                         "दृष्ट्वाप्सरसमायान्तीं घृताचीं पृथुलोचनाम्"
                     ]
@@ -26057,9 +26165,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then went to Indratirtha and Bali, the chief of the Yadus. He gave them wealth and gems to the brahmins and bathed in accordance with the custom"
+                        "google_trans": "Vaishampayana said: Then went to Indratirtha and Bali, the chief of the Yadus. He gave them wealth and gems to the brahmins and bathed in accordance with the custom"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "इन्द्रतीर्थं ततो गत्वा यदूनां प्रवरो बली",
                         "विप्रेभ्यो धनरत्नानि ददौ स्नात्वा यथाविधि"
                     ]
@@ -26296,9 +26405,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "In that very place, however, the righteous man lived, rich in austerities Asito Devala in the past"
+                        "google_trans": "Vaishampayana said: In that very place, however, the righteous man lived, rich in austerities Asito Devala in the past"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "तस्मिन्नेव तु धर्मात्मा वसति स्म तपोधनः",
                         "गार्हस्थ्यं धर्ममास्थाय असितो देवलः पुरा"
                     ]
@@ -26748,9 +26858,10 @@
                 {
                     "verse_id": "046",
                     "verse_translation": {
-                        "google_trans": "Hear, O Devala, for the sake of the ghosts, let us praise us with firm vows. Jaigishavya has gone to the eternal world, the inexhaustible Brahman."
+                        "google_trans": "Siddha Uchuh: Hear, O Devala, for the sake of the ghosts, let us praise us with firm vows. Jaigishavya has gone to the eternal world, the inexhaustible Brahman."
                     },
                     "verse_sans_lines": [
+                        "सिद्धा ऊचुः",
                         "शृणु देवल भूतार्थं शंसतां नो दृढव्रत",
                         "जैगीषव्यो गतो लोकं शाश्वतं ब्रह्मणोऽव्ययम्"
                     ]
@@ -26957,9 +27068,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Yatrajivanudupati Rajasuyena Bharat There was a great battle in that circle, the stars."
+                        "google_trans": "Vaishampayana said: Yatrajivanudupati Rajasuyena Bharat There was a great battle in that circle, the stars."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "यत्रेजिवानुडुपती राजसूयेन भारत",
                         "तस्मिन्वृत्ते महानासीत्संग्रामस्तारकामयः"
                     ]
@@ -26987,9 +27099,10 @@
                 {
                     "verse_id": "004",
                     "verse_translation": {
-                        "google_trans": "How is it that the rich man of austerities in the twelve-year-old rainfall In the past the sage Sarasvata taught the Vedas"
+                        "google_trans": "Janamejaya said: How is it that the rich man of austerities in the twelve-year-old rainfall In the past the sage Sarasvata taught the Vedas"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "कथं द्वादशवार्षिक्यामनावृष्ट्यां तपोधनः",
                         "वेदानध्यापयामास पुरा सारस्वतो मुनिः"
                     ]
@@ -26997,9 +27110,10 @@
                 {
                     "verse_id": "005",
                     "verse_translation": {
-                        "google_trans": "In the past, O great king, the wise and great ascetics were there. The celibate, known as Dadhicha, is a self-controlled senses."
+                        "google_trans": "Vaishampayana said: In the past, O great king, the wise and great ascetics were there. The celibate, known as Dadhicha, is a self-controlled senses."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "आसीत्पूर्वं महाराज मुनिर्धीमान्महातपाः",
                         "दधीच इति विख्यातो ब्रह्मचारी जितेन्द्रियः"
                     ]
@@ -27479,9 +27593,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "How did the virgin, Lord, have been engaged in austerities in the past. And why did he perform austerities and who is the rule of Vasya"
+                        "google_trans": "Janamejaya said: How did the virgin, Lord, have been engaged in austerities in the past. And why did he perform austerities and who is the rule of Vasya"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "कथं कुमारी भगवंस्तपोयुक्ता ह्यभूत्पुरा",
                         "किमर्थं च तपस्तेपे को वास्या नियमोऽभवत्"
                     ]
@@ -27499,9 +27614,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "The sage was the mighty Kuni Gargya and the great Yasha He performed abundant austerities, O king, the best of austerities. He gave birth to a daughter with a beautiful eyebrow."
+                        "google_trans": "Vaishampayana said: The sage was the mighty Kuni Gargya and the great Yasha He performed abundant austerities, O king, the best of austerities. He gave birth to a daughter with a beautiful eyebrow."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ऋषिरासीन्महावीर्यः कुणिर्गार्ग्यो महायशाः",
                         "स तप्त्वा विपुलं राजंस्तपो वै तपतां वरः",
                         "मानसीं स सुतां सुभ्रूं समुत्पादितवान्विभुः"
@@ -27750,9 +27866,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The latter altar is called the Creator;Sanatana Rama Samantapanchakam in the same place where the Pura Divaukaso;Varena satre mahavarapradaah"
+                        "google_trans": "The sages said:: The latter altar is called the Creator;Sanatana Rama Samantapanchakam in the same place where the Pura Divaukaso;Varena satre mahavarapradaah"
                     },
                     "verse_sans_lines": [
+                        "ऋषय ऊचुः",
                         "प्रजापतेरुत्तरवेदिरुच्यते; सनातना राम समन्तपञ्चकम्",
                         "समीजिरे यत्र पुरा दिवौकसो; वरेण सत्रेण महावरप्रदाः"
                     ]
@@ -27770,9 +27887,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Why is this the field drawn by Kuruna, the great soul I want to hear this, O rich ascetics."
+                        "google_trans": "Rama said: Why is this the field drawn by Kuruna, the great soul I want to hear this, O rich ascetics."
                     },
                     "verse_sans_lines": [
+                        "राम उवाच",
                         "किमर्थं कुरुणा कृष्टं क्षेत्रमेतन्महात्मना",
                         "एतदिच्छाम्यहं श्रोतुं कथ्यमानं तपोधनाः"
                     ]
@@ -27780,9 +27898,10 @@
                 {
                     "verse_id": "004",
                     "verse_translation": {
-                        "google_trans": "In the past, O Rama, the Kurus are constantly rising. Approaching Indra from the heavens ask the reason"
+                        "google_trans": "The sages said:: In the past, O Rama, the Kurus are constantly rising. Approaching Indra from the heavens ask the reason"
                     },
                     "verse_sans_lines": [
+                        "ऋषय ऊचुः",
                         "पुरा किल कुरुं राम कृषन्तं सततोत्थितम्",
                         "अभ्येत्य शक्रस्त्रिदिवात्पर्यपृच्छत कारणम्"
                     ]
@@ -27800,9 +27919,10 @@
                 {
                     "verse_id": "006",
                     "verse_translation": {
-                        "google_trans": "The men who will die in the field here will become a hundred sacrifices They will go to the worlds of good deeds, devoid of sin."
+                        "google_trans": "Kururuvacha: The men who will die in the field here will become a hundred sacrifices They will go to the worlds of good deeds, devoid of sin."
                     },
                     "verse_sans_lines": [
+                        "कुरुरुवाच",
                         "इह ये पुरुषाः क्षेत्रे मरिष्यन्ति शतक्रतो",
                         "ते गमिष्यन्ति सुकृताँल्लोकान्पापविवर्जितान्"
                     ]
@@ -27967,9 +28087,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then he saw Kurukshetra and gave them gifts and Satvata Ashram Sumahaddivyamagamajjanamejaya"
+                        "google_trans": "Vaishampayana said: Then he saw Kurukshetra and gave them gifts and Satvata Ashram Sumahaddivyamagamajjanamejaya"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "कुरुक्षेत्रं ततो दृष्ट्वा दत्त्वा दायांश्च सात्वतः",
                         "आश्रमं सुमहद्दिव्यमगमज्जनमेजय"
                     ]
@@ -28191,9 +28312,10 @@
                 {
                     "verse_id": "023",
                     "verse_translation": {
-                        "google_trans": "In the past, Bhishma, Drona and Sindhupati were killed. He was killed by Vaikartana and Karna and his sons and great charioteers"
+                        "google_trans": "Narada said: In the past, Bhishma, Drona and Sindhupati were killed. He was killed by Vaikartana and Karna and his sons and great charioteers"
                     },
                     "verse_sans_lines": [
+                        "नारद उवाच",
                         "पूर्वमेव हतो भीष्मो द्रोणः सिन्धुपतिस्तथा",
                         "हतो वैकर्तनः कर्णः पुत्राश्चास्य महारथाः"
                     ]
@@ -28282,9 +28404,10 @@
                 {
                     "verse_id": "032",
                     "verse_translation": {
-                        "google_trans": "Hearing the words of Narada, he worshiped them and the brahmins. He dismissed all those who came with him with him Let him go to Dwarka and he is a follower"
+                        "google_trans": "Vaishampayana said: Hearing the words of Narada, he worshiped them and the brahmins. He dismissed all those who came with him with him Let him go to Dwarka and he is a follower"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "नारदस्य वचः श्रुत्वा तानभ्यर्च्य द्विजर्षभान्",
                         "सर्वान्विसर्जयामास ये तेनाभ्यागताः सह",
                         "गम्यतां द्वारकां चेति सोऽन्वशादनुयायिनः"
@@ -28351,9 +28474,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Thus that was the battle of Tumula, Janamejaya where King Dhritarashtra said this to him."
+                        "google_trans": "Vaishampayana said: Thus that was the battle of Tumula, Janamejaya where King Dhritarashtra said this to him."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "एवं तदभवद्युद्धं तुमुलं जनमेजय",
                         "यत्र दुःखान्वितो राजा धृतराष्ट्रोऽब्रवीदिदम्"
                     ]
@@ -28371,9 +28495,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Reaching the presence of Rama, your son Duryodhana is yours Desiring to fight, the mighty-armed man rejoiced and the mighty"
+                        "google_trans": "Sanjaya said: Reaching the presence of Rama, your son Duryodhana is yours Desiring to fight, the mighty-armed man rejoiced and the mighty"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "रामसांनिध्यमासाद्य पुत्रो दुर्योधनस्तव",
                         "युद्धकामो महाबाहुः समहृष्यत वीर्यवान्"
                     ]
@@ -28799,9 +28924,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then there was a struggle of speech, Janamejaya. where King Dhritarashtra said this to him."
+                        "google_trans": "Vaishampayana said: Then there was a struggle of speech, Janamejaya. where King Dhritarashtra said this to him."
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "ततो वाग्युद्धमभवत्तुमुलं जनमेजय",
                         "यत्र दुःखान्वितो राजा धृतराष्ट्रोऽब्रवीदिदम्"
                     ]
@@ -28849,9 +28975,10 @@
                 {
                     "verse_id": "006",
                     "verse_translation": {
-                        "google_trans": "He sounded like a cow and a bull like a roar of joy Then he said to Partha, the mighty warrior in battle."
+                        "google_trans": "Sanjaya said: He sounded like a cow and a bull like a roar of joy Then he said to Partha, the mighty warrior in battle."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "स मेघनिनदो हर्षाद्विनदन्निव गोवृषः",
                         "आजुहाव ततः पार्थं युद्धाय युधि वीर्यवान्"
                     ]
@@ -29248,9 +29375,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then Duryodhana saw Bhimasena's Tathagata The counter-rising soul roared with great speed"
+                        "google_trans": "Sanjaya said: Then Duryodhana saw Bhimasena's Tathagata The counter-rising soul roared with great speed"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततो दुर्योधनो दृष्ट्वा भीमसेनं तथागतम्",
                         "प्रत्युद्ययावदीनात्मा वेगेन महता नदन्"
                     ]
@@ -29926,9 +30054,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then he saw the battle between the chiefs of the Kurus Then Arjuna said to the illustrious Vasudeva"
+                        "google_trans": "Sanjaya said: Then he saw the battle between the chiefs of the Kurus Then Arjuna said to the illustrious Vasudeva"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "समुदीर्णं ततो दृष्ट्वा संग्रामं कुरुमुख्ययोः",
                         "अथाब्रवीदर्जुनस्तु वासुदेवं यशस्विनम्"
                     ]
@@ -29946,9 +30075,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "The advice of the two is equal to Bhima and is stronger This is more effortless than the Dhritarashtra from Vrikodara"
+                        "google_trans": "Vasudeva said: The advice of the two is equal to Bhima and is stronger This is more effortless than the Dhritarashtra from Vrikodara"
                     },
                     "verse_sans_lines": [
+                        "वासुदेव उवाच",
                         "उपदेशोऽनयोस्तुल्यो भीमस्तु बलवत्तरः",
                         "कृतयत्नतरस्त्वेष धार्तराष्ट्रो वृकोदरात्"
                     ]
@@ -30527,9 +30657,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then he saw him thrown down and rose like a great shed All the Pandavas were delighted there"
+                        "google_trans": "Sanjaya said: Then he saw him thrown down and rose like a great shed All the Pandavas were delighted there"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "तं पातितं ततो दृष्ट्वा महाशालमिवोद्गतम्",
                         "प्रहृष्टमनसः सर्वे बभूवुस्तत्र पाण्डवाः"
                     ]
@@ -30775,9 +30906,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Seeing the king killed by iniquity, the best of Madhava What then said, Suta Baladeva, the mighty."
+                        "google_trans": "Dhritarashtra said: Seeing the king killed by iniquity, the best of Madhava What then said, Suta Baladeva, the mighty."
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "अधर्मेण हतं दृष्ट्वा राजानं माधवोत्तमः",
                         "किमब्रवीत्तदा सूत बलदेवो महाबलः"
                     ]
@@ -30795,9 +30927,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Seeing the head struck by Bhimasena, your son was Rama is the best of the strikes, Chukrodha, strong and strong."
+                        "google_trans": "Sanjaya said: Seeing the head struck by Bhimasena, your son was Rama is the best of the strikes, Chukrodha, strong and strong."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "शिरस्यभिहतं दृष्ट्वा भीमसेनेन ते सुतम्",
                         "रामः प्रहरतां श्रेष्ठश्चुक्रोध बलवद्बली"
                     ]
@@ -30938,9 +31071,10 @@
                 {
                     "verse_id": "017",
                     "verse_translation": {
-                        "google_trans": "Religion is well-behaved and controls two with the virtuous Meaning and lust for the most greedy and over-reflective"
+                        "google_trans": "Rama said: Religion is well-behaved and controls two with the virtuous Meaning and lust for the most greedy and over-reflective"
                     },
                     "verse_sans_lines": [
+                        "राम उवाच",
                         "धर्मः सुचरितः सद्भिः सह द्वाभ्यां नियच्छति",
                         "अर्थश्चात्यर्थलुब्धस्य कामश्चातिप्रसङ्गिनः"
                     ]
@@ -30968,9 +31102,10 @@
                 {
                     "verse_id": "020",
                     "verse_translation": {
-                        "google_trans": "For he is a righteous man who is always righteous You are famous in the world, therefore, do not be angry with you."
+                        "google_trans": "Vasudeva said: For he is a righteous man who is always righteous You are famous in the world, therefore, do not be angry with you."
                     },
                     "verse_sans_lines": [
+                        "वासुदेव उवाच",
                         "अरोषणो हि धर्मात्मा सततं धर्मवत्सलः",
                         "भवान्प्रख्यायते लोके तस्मात्संशाम्य मा क्रुधः"
                     ]
@@ -30988,9 +31123,10 @@
                 {
                     "verse_id": "022",
                     "verse_translation": {
-                        "google_trans": "Even the deception of religion heard Keshava, the lord of the world. Not pleased Rama spoke the words in Parliament"
+                        "google_trans": "Sanjaya said: Even the deception of religion heard Keshava, the lord of the world. Not pleased Rama spoke the words in Parliament"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "धर्मच्छलमपि श्रुत्वा केशवात्स विशां पते",
                         "नैव प्रीतमना रामो वचनं प्राह संसदि"
                     ]
@@ -31078,9 +31214,10 @@
                 {
                     "verse_id": "031",
                     "verse_translation": {
-                        "google_trans": "This is not mine, O Krishna, who is the king of the wolves. He touched his feet on his head and did not rejoice in the destruction of the family"
+                        "google_trans": "Yudhisthira said: This is not mine, O Krishna, who is the king of the wolves. He touched his feet on his head and did not rejoice in the destruction of the family"
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "न ममैतत्प्रियं कृष्ण यद्राजानं वृकोदरः",
                         "पदा मूर्ध्न्यस्पृशत्क्रोधान्न च हृष्ये कुलक्षये"
                     ]
@@ -31118,9 +31255,10 @@
                 {
                     "verse_id": "035",
                     "verse_translation": {
-                        "google_trans": "When Dharmaraja said this, Vasudeva said this Kamamasyevam, the carrier of difficulty from difficulty."
+                        "google_trans": "Sanjaya said: When Dharmaraja said this, Vasudeva said this Kamamasyevam, the carrier of difficulty from difficulty."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "इत्युक्ते धर्मराजेन वासुदेवोऽब्रवीदिदम्",
                         "काममस्त्वेवमिति वै कृच्छ्राद्यदुकुलोद्वहः"
                     ]
@@ -31198,9 +31336,10 @@
                 {
                     "verse_id": "043",
                     "verse_translation": {
-                        "google_trans": "King Suyodhana killed the death of the enemy. This earth is conquered by Krishna's opinion"
+                        "google_trans": "Yudhisthira said: King Suyodhana killed the death of the enemy. This earth is conquered by Krishna's opinion"
                     },
                     "verse_sans_lines": [
+                        "युधिष्ठिर उवाच",
                         "गतं वैरस्य निधनं हतो राजा सुयोधनः",
                         "कृष्णस्य मतमास्थाय विजितेयं वसुंधरा"
                     ]
@@ -31225,9 +31364,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Seeing Duryodhana killed by Bhimasena in battle What did the Pandavas and Srinjaya do Sanjaya"
+                        "google_trans": "Dhritarashtra said: Seeing Duryodhana killed by Bhimasena in battle What did the Pandavas and Srinjaya do Sanjaya"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "हतं दुर्योधनं दृष्ट्वा भीमसेनेन संयुगे",
                         "पाण्डवाः सृञ्जयाश्चैव किमकुर्वत संजय"
                     ]
@@ -31235,9 +31375,10 @@
                 {
                     "verse_id": "002",
                     "verse_translation": {
-                        "google_trans": "Seeing Duryodhana killed by Bhimasena in battle Lion, O great king, in the forest of the forest elephant."
+                        "google_trans": "Sanjaya said: Seeing Duryodhana killed by Bhimasena in battle Lion, O great king, in the forest of the forest elephant."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "हतं दुर्योधनं दृष्ट्वा भीमसेनेन संयुगे",
                         "सिंहेनेव महाराज मत्तं वनगजं वने"
                     ]
@@ -31606,9 +31747,10 @@
                 {
                     "verse_id": "039",
                     "verse_translation": {
-                        "google_trans": "You have been killed in Gandhara with your brother’s son and relatives He was accompanied by his friends and friends and followed the path of sin"
+                        "google_trans": "Vasudeva said: You have been killed in Gandhara with your brother’s son and relatives He was accompanied by his friends and friends and followed the path of sin"
                     },
                     "verse_sans_lines": [
+                        "वासुदेव उवाच",
                         "हतस्त्वमसि गान्धारे सभ्रातृसुतबान्धवः",
                         "सगणः ससुहृच्चैव पापमार्गमनुष्ठितः"
                     ]
@@ -31686,9 +31828,10 @@
                 {
                     "verse_id": "047",
                     "verse_translation": {
-                        "google_trans": "The earth is the administrator who has studied and given in accordance with the law Who is more free from my enemies standing on the head of the enemy"
+                        "google_trans": "Duryodhana said: The earth is the administrator who has studied and given in accordance with the law Who is more free from my enemies standing on the head of the enemy"
                     },
                     "verse_sans_lines": [
+                        "दुर्योधन उवाच",
                         "अधीतं विधिवद्दत्तं भूः प्रशास्ता ससागरा",
                         "मूर्ध्नि स्थितममित्राणां को नु स्वन्ततरो मया"
                     ]
@@ -31726,9 +31869,10 @@
                 {
                     "verse_id": "051",
                     "verse_translation": {
-                        "google_trans": "At the death of this sentence, the king of the Kurus, India The great year of the flowers of the holy fragrances"
+                        "google_trans": "Sanjaya said: At the death of this sentence, the king of the Kurus, India The great year of the flowers of the holy fragrances"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "अस्य वाक्यस्य निधने कुरुराजस्य भारत",
                         "अपतत्सुमहद्वर्षं पुष्पाणां पुण्यगन्धिनाम्"
                     ]
@@ -31883,9 +32027,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Then they all went to the king for their residence They smeared the conches and were happy with the club-armed ones"
+                        "google_trans": "Sanjaya said: Then they all went to the king for their residence They smeared the conches and were happy with the club-armed ones"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ततस्ते प्रययुः सर्वे निवासाय महीक्षितः",
                         "शङ्खान्प्रध्मापयन्तो वै हृष्टाः परिघबाहवः"
                     ]
@@ -32053,9 +32198,10 @@
                 {
                     "verse_id": "018",
                     "verse_translation": {
-                        "google_trans": "It was burnt by many kinds of weapons, O Arjuna. Because of my overwhelming, the enemy is not broken in battle."
+                        "google_trans": "Vasudeva said: It was burnt by many kinds of weapons, O Arjuna. Because of my overwhelming, the enemy is not broken in battle."
                     },
                     "verse_sans_lines": [
+                        "वासुदेव उवाच",
                         "अस्त्रैर्बहुविधैर्दग्धः पूर्वमेवायमर्जुन",
                         "मदधिष्ठितत्वात्समरे न विशीर्णः परंतप"
                     ]
@@ -32073,9 +32219,10 @@
                 {
                     "verse_id": "020",
                     "verse_translation": {
-                        "google_trans": "Lord Keshava, who was slightly smiling, killed. He embraced the king and spoke to Yudhisthira"
+                        "google_trans": "Sanjaya said: Lord Keshava, who was slightly smiling, killed. He embraced the king and spoke to Yudhisthira"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "ईषदुत्स्मयमानश्च भगवान्केशवोऽरिहा",
                         "परिष्वज्य च राजानं युधिष्ठिरमभाषत"
                     ]
@@ -32295,9 +32442,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Why is the royal tiger the king of righteousness Yudhisthira Gandhari sent Vasudeva to the tormentor"
+                        "google_trans": "Janamejaya said: Why is the royal tiger the king of righteousness Yudhisthira Gandhari sent Vasudeva to the tormentor"
                     },
                     "verse_sans_lines": [
+                        "जनमेजय उवाच",
                         "किमर्थं राजशार्दूलो धर्मराजो युधिष्ठिरः",
                         "गान्धार्याः प्रेषयामास वासुदेवं परंतपम्"
                     ]
@@ -32355,9 +32503,10 @@
                 {
                     "verse_id": "007",
                     "verse_translation": {
-                        "google_trans": "This is the question of what you ask me, O earth. I will tell you that, O Bharata, as it is"
+                        "google_trans": "Vaishampayana said: This is the question of what you ask me, O earth. I will tell you that, O Bharata, as it is"
                     },
                     "verse_sans_lines": [
+                        "वैशंपायन उवाच",
                         "त्वद्युक्तोऽयमनुप्रश्नो यन्मां पृच्छसि पार्थिव",
                         "तत्तेऽहं संप्रवक्ष्यामि यथावद्भरतर्षभ"
                     ]
@@ -33038,9 +33187,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "The foot was overwhelmed on the head and the broken thighs went to the earth Shautiramani sons me Kanyabhasat Sanjay"
+                        "google_trans": "Dhritarashtra said: The foot was overwhelmed on the head and the broken thighs went to the earth Shautiramani sons me Kanyabhasat Sanjay"
                     },
                     "verse_sans_lines": [
+                        "धृतराष्ट्र उवाच",
                         "अधिष्ठितः पदा मूर्ध्नि भग्नसक्थो महीं गतः",
                         "शौटीरमानी पुत्रो मे कान्यभाषत संजय"
                     ]
@@ -33058,9 +33208,10 @@
                 {
                     "verse_id": "003",
                     "verse_translation": {
-                        "google_trans": "Listen, O king, I will tell you, O lord of men, as it happened. When the king had said it was broken, he came to the trouble."
+                        "google_trans": "Sanjaya said: Listen, O king, I will tell you, O lord of men, as it happened. When the king had said it was broken, he came to the trouble."
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "शृणु राजन्प्रवक्ष्यामि यथावृत्तं नराधिप",
                         "राज्ञा यदुक्तं भग्नेन तस्मिन्व्यसन आगते"
                     ]
@@ -33476,9 +33627,10 @@
                 {
                     "verse_id": "001",
                     "verse_translation": {
-                        "google_trans": "Hearing from the winds, Duryodhana was killed. Then the great charioteers of the Kauravas were killed"
+                        "google_trans": "Sanjaya said: Hearing from the winds, Duryodhana was killed. Then the great charioteers of the Kauravas were killed"
                     },
                     "verse_sans_lines": [
+                        "संजय उवाच",
                         "वातिकानां सकाशात्तु श्रुत्वा दुर्योधनं हतम्",
                         "हतशिष्टास्ततो राजन्कौरवाणां महारथाः"
                     ]
